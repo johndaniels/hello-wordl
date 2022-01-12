@@ -7,8 +7,8 @@ interface KeyboardProps {
 
 export function Keyboard(props: KeyboardProps) {
   const keyboard = [
-    "q w e r t y u i o p".split(" "),
-    "a s d f g h j k l".split(" "),
+    "w e r t y u i o p".split(" "),
+    "a s d f g h k l".split(" "),
     "Backspace z x c v b n m Enter".split(" "),
   ];
 

@@ -38,6 +38,11 @@ body {
   margin-top: 0;
 }
 
+.App-container h2 {
+  margin-top: 0;
+  font-size: 1em;
+}
+
 .Game {
   display: flex;
   flex-direction: column;

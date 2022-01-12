@@ -10,7 +10,8 @@ function App() {
   const maxGuesses = 6;
   return (
     <div className="App-container">
-      <h1>hello wordl</h1>
+      <h1>WOWTLE</h1>
+      <h2>Wowtel? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>
       <div style={{ position: "absolute", right: 5, top: 5 }}>
         <a href="#" onClick={() => setAbout((a) => !a)}>
           {about ? "Close" : "About"}
@@ -32,11 +33,11 @@ function App() {
       {about && (
         <div className="App-about">
           <p>
-            <i>hello wordl</i> is a remake of the word game{" "}
+            <i>Wowtle</i> is a remake of <a href="https://twitter.com/chordbug">@chordbug</a>'s remake of the word game{" "}
             <a href="https://www.powerlanguage.co.uk/wordle/">
               <i>Wordle</i>
             </a>
-            , which I think is based on the TV show <i>Lingo</i>.
+            , which we think is based on the TV show <i>Lingo</i>.
           </p>
           <p>
             You get {maxGuesses} tries to guess a target word.
@@ -88,8 +89,8 @@ function App() {
             Got it!
           </p>
           Report issues{" "}
-          <a href="https://github.com/lynn/hello-wordl/issues">here</a>, or
-          tweet <a href="https://twitter.com/chordbug">@chordbug</a>.
+          <a href="https://github.com/johndaniels/hello-wordl/issues">here</a>, or
+          tweet <a href="https://twitter.com/ItReachesOut">@ItReachesOut</a>.
         </div>
       )}
       <Game maxGuesses={maxGuesses} hidden={about} />

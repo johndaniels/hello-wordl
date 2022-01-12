@@ -17,8 +17,7 @@ interface GameProps {
   hidden: boolean;
 }
 
-const targets = targetList
-  .slice(0, targetList.indexOf("murky") + 1); // Words no rarer than this one
+const targets = targetList.slice();
 
 function randomTarget(wordLength: number) {
   const eligible = targets.filter((word) => word.length === wordLength);
@@ -130,7 +129,7 @@ function Game(props: GameProps) {
         <input
           type="range"
           min="4"
-          max="11"
+          max="8"
           id="wordLength"
           disabled={
             gameState === GameState.Playing &&
