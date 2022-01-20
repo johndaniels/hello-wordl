@@ -10,8 +10,8 @@ function App() {
   const maxGuesses = 6;
   return (
     <div className="App-container">
-      <h1>WOWTLE</h1>
-      <h2>Wowtel? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>
+      <h1>Wowtle</h1>
+      <h2>Wowtle? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>
       <div style={{ position: "absolute", right: 5, top: 5 }}>
         <a href="#" onClick={() => setAbout((a) => !a)}>
           {about ? "Close" : "About"}
@@ -27,7 +27,7 @@ function App() {
                 new Date().toISOString().replace(/-/g, "").slice(0, 8))
           }
         >
-          {seed ? "Random" : "Today's"}
+          {seed ? "Random" : "Fo Tudiye"}
         </a>
       </div>
       {about && (
@@ -94,6 +94,9 @@ function App() {
         </div>
       )}
       <Game maxGuesses={maxGuesses} hidden={about} />
+      <footer>
+        <div>Made with ♡ by <a href="https://twitter.com/ItReachesOut">a Lang Belta learner</a>, for the study and exploration of Lang Belta.</div>
+      </footer>
     </div>
   );
 }

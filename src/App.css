@@ -1,10 +1,29 @@
+@font-face {
+  font-family: DINPro;
+  src: url(./fonts/DINPro.otf);
+}
+
+@font-face {
+  font-family: DINPro;
+  src: url(./fonts/DINPro-LightItalic.otf);
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: DINPro;
+  src: url(./fonts/DINPro-Light.otf);
+  font-weight: 300;
+}
+
 * {
   box-sizing: border-box;
 }
 
 body {
   text-align: center;
-  background-color: #eeeeee;
+  font-family: DINPro;
+  background-color: #effaff;
 }
 
 .Row {
@@ -35,12 +54,18 @@ body {
 }
 
 .App-container h1 {
+  text-transform: uppercase;
   margin-top: 0;
 }
 
 .App-container h2 {
   margin-top: 0;
   font-size: 1em;
+}
+
+.App-container footer {
+  position: fixed;
+  bottom: 1em;
 }
 
 .Game {
