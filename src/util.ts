@@ -1,4 +1,8 @@
 import dictionary from "./dictionary.json";
+import dayjs from 'dayjs'
+import utc from 'dayjs/plugin/utc';
+
+dayjs.extend(utc);
 
 export const maxGuesses = 6;
 
@@ -17,16 +21,28 @@ export function urlParam(name: string): string | null {
   return new URLSearchParams(window.location.search).get(name);
 }
 
-export const seed = Number(urlParam("seed"));
-const makeRandom = () => (seed ? mulberry32(seed) : () => Math.random());
-let random = makeRandom();
+let seed = urlParam("seed");
 
-export function resetRng(): void {
-  random = makeRandom();
+export const urlDate = urlParam("date") || dayjs.utc().format("YYYYMMDD");
+export const isToday = !seed && urlDate === dayjs.utc().format("YYYYMMDD");
+export const urlLength = Number(urlParam("length") || "5");
+
+export function getSeed() : string | null {
+  return seed;
 }
 
-export function pick<T>(array: Array<T>): T {
-  return array[Math.floor(array.length * random())];
+export function getNewSeed() : string {
+  seed = getRandomSeed();
+  return seed;
+}
+
+export function getRandomSeed() {
+  return Math.floor((Math.random() * 1000000000)).toString();
+}
+
+export function pick<T>(array: Array<T>, seed: string): T {
+  const randVal = mulberry32(Number(seed))();
+  return array[Math.floor(array.length * randVal)];
 }
 
 // https://a11y-guidelines.orange.com/en/web/components-examples/make-a-screen-reader-talk/

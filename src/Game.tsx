@@ -2,10 +2,14 @@ import { useEffect, useRef, useState } from "react";
 import { Row, RowState } from "./Row";
 import dictionary from "./dictionary.json";
 import { Clue, clue, describeClue, violation } from "./clue";
+import { computeShareText } from "./share";
 import { Keyboard } from "./Keyboard";
 import targetList from "./targets.json";
-import { dictionarySet, pick, resetRng, seed, speak, urlParam } from "./util";
-import { decode, encode } from "./base64";
+import { dictionarySet, pick, getSeed, urlDate, speak, urlParam, getNewSeed, urlLength } from "./util";
+import { decode } from "./base64";
+import dayjs from 'dayjs'
+import localizedFormat from 'dayjs/plugin/localizedFormat';
+dayjs.extend(localizedFormat);
 
 enum GameState {
   Playing,
@@ -21,22 +25,17 @@ interface GameProps {
 
 const targets = targetList.slice();
 
-function randomTarget(wordLength: number): string {
+function randomTarget(wordLength: number, seed: string): string {
   const eligible = targets.filter((word) => word.length === wordLength);
   let candidate: string;
   do {
-    candidate = pick(eligible);
+    candidate = pick(eligible, seed);
   } while (/\*/.test(candidate));
   return candidate;
 }
 
-function getChallengeUrl(target: string): string {
-  return (
-    window.location.origin +
-    window.location.pathname +
-    "?challenge=" +
-    encode(target)
-  );
+function getDateStringFromUrlParam(dateParam:string) {
+  return dayjs(dateParam, "YYYYMMDD").format("LL");
 }
 
 let initChallenge = "";
@@ -52,37 +51,38 @@ if (initChallenge && !dictionarySet.has(initChallenge)) {
   challengeError = true;
 }
 
+function setHistoryState(date: string, seed: string | null, length: number) {
+  const queryString = (seed ? "?seed=" + seed : "?date=" + date) + "&length=" + length;
+  window.history.replaceState({}, document.title, window.location.pathname + queryString);
+}
+
 function Game(props: GameProps) {
   const [gameState, setGameState] = useState(GameState.Playing);
   const [guesses, setGuesses] = useState<string[]>([]);
+  const [date, setDate] = useState<string>(urlDate)
+  const [seed, setSeed] = useState<string | null>(getSeed())
   const [currentGuess, setCurrentGuess] = useState<string>("");
   const [hint, setHint] = useState<string>(
     challengeError
       ? `Invalid challenge string, playing random game.`
       : `Make your first guess!`
   );
-  const [challenge, setChallenge] = useState<string>(initChallenge);
   const [wordLength, setWordLength] = useState(
-    challenge ? challenge.length : 5
+    urlLength
   );
   const [target, setTarget] = useState(() => {
-    resetRng();
-    return challenge || randomTarget(wordLength);
+    return randomTarget(wordLength, seed || date);
   });
-  const [gameNumber, setGameNumber] = useState(1);
   const tableRef = useRef<HTMLTableElement>(null);
   const startNextGame = () => {
-    if (challenge) {
-      // Clear the URL parameters:
-      window.history.replaceState({}, document.title, window.location.pathname);
-    }
-    setChallenge("");
-    setTarget(randomTarget(wordLength));
+    const newSeed = getNewSeed();
+    setSeed(newSeed);
+    setHistoryState(date, newSeed, wordLength);
+    setTarget(randomTarget(wordLength, newSeed));
     setGuesses([]);
     setCurrentGuess("");
     setHint("");
     setGameState(GameState.Playing);
-    setGameNumber((x) => x + 1);
   };
 
   const onKey = (key: string) => {
@@ -124,9 +124,7 @@ function Game(props: GameProps) {
       setCurrentGuess((guess) => "");
 
       const gameOver = (verbed: string) =>
-        `You ${verbed}! The answer was ${target.toUpperCase()}. (Enter to ${
-          challenge ? "play a random game" : "play again"
-        })`;
+        `You ${verbed}! The answer was ${target.toUpperCase()}. (”Enter” fo wa dzhógem nuva)`;
 
       if (currentGuess === target) {
         setHint(gameOver("won"));
@@ -199,17 +197,16 @@ function Game(props: GameProps) {
           id="wordLength"
           disabled={
             gameState === GameState.Playing &&
-            (guesses.length > 0 || currentGuess !== "" || challenge !== "")
+            (guesses.length > 0 || currentGuess !== "")
           }
           value={wordLength}
           onChange={(e) => {
             const length = Number(e.target.value);
-            resetRng();
-            setGameNumber(1);
+            setHistoryState(date, seed, length);
             setGameState(GameState.Playing);
             setGuesses([]);
             setCurrentGuess("");
-            setTarget(randomTarget(length));
+            setTarget(randomTarget(length, seed || date));
             setWordLength(length);
             setHint(`${length} letters`);
           }}
@@ -243,36 +240,37 @@ function Game(props: GameProps) {
         {hint || `\u00a0`}
       </p>
       <Keyboard letterInfo={letterInfo} onKey={onKey} />
-      {gameState !== GameState.Playing && !challenge && (
+      {gameState !== GameState.Playing && (
         <p>
           <button
             onClick={() => {
-              const url = getChallengeUrl(target);
+              const shareText = computeShareText(guesses, target, date, seed, wordLength);
               if (!navigator.clipboard) {
-                setHint(url);
+                setHint(shareText);
               } else {
                 navigator.clipboard
-                  .writeText(url)
+                  .writeText(shareText)
                   .then(() => {
-                    setHint("Challenge link copied to clipboard!");
+                    setHint("Results copied to clipboard!");
                   })
                   .catch(() => {
-                    setHint(url);
+                    setHint(shareText);
                   });
               }
             }}
           >
-            Challenge a friend to this word
+            Share your results
           </button>
         </p>
       )}
-      {challenge ? (
-        <div className="Game-seed-info">playing a challenge game</div>
-      ) : seed ? (
+      {seed ? <div className="Game-seed-info">
+          Random Game with seed {seed}, length {wordLength}
+        </div> : 
         <div className="Game-seed-info">
-          seed {seed}, length {wordLength}, game {gameNumber}
-        </div>
-      ) : undefined}
+          Game for {getDateStringFromUrlParam(date)}, length {wordLength}
+        </div> 
+        }
+        
     </div>
   );
 }

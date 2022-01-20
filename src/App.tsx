@@ -1,5 +1,5 @@
 import "./App.css";
-import { maxGuesses, seed } from "./util";
+import { maxGuesses, getRandomSeed, isToday} from "./util";
 import Game from "./Game";
 import { useEffect, useState } from "react";
 import { About } from "./About";
@@ -88,15 +88,11 @@ function App() {
         }}
       >
         <a
-          href="#"
-          onClick={() =>
-            (document.location = seed
-              ? "?"
-              : "?seed=" +
-                new Date().toISOString().replace(/-/g, "").slice(0, 8))
-          }
+          href={isToday
+            ? "?seed=" + getRandomSeed()
+            : "?"}
         >
-          {seed ? "Random" : "Fo Tudiye"}
+          {isToday ? "Random" : "Fo Tudiye"}
         </a>
       </div>
       {page === "about" && <About />}
