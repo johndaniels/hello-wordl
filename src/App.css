@@ -28,13 +28,15 @@ body {
 
 .Row {
   display: flex;
+  align-items: center;
   justify-content: center;
 }
 
 .Row-letter {
   margin: 2px;
-  border: 2px solid rgba(0, 0, 0, 0.4);
-  width: 40px;
+  border: 2px solid rgba(128, 128, 128, 0.8);
+  flex: 1;
+  max-width: 40px;
   height: 40px;
   font-size: 28px;
   display: flex;
@@ -42,6 +44,12 @@ body {
   align-items: center;
   text-transform: uppercase;
   font-weight: bold;
+}
+
+.Row-annotation {
+  margin-inline-start: 16px;
+  width: 5em;
+  text-align: start;
 }
 
 .App-container {
@@ -68,10 +76,29 @@ body {
   bottom: 1em;
 }
 
+.Game,
+h1 {
+  user-select: none;
+}
+
 .Game {
   display: flex;
   flex-direction: column;
-  user-select: none;
+}
+
+table.Game-rows {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+table.Game-rows:focus {
+  outline: none;
+}
+
+table.Game-rows > tbody {
+  display: flex;
+  flex-direction: column;
 }
 
 .Game-keyboard {
@@ -113,51 +140,29 @@ body {
 
 .letter-correct {
   border: 2px solid rgba(0, 0, 0, 0.3);
-  background-color: rgb(87, 172, 87);
-  color: white;
+  background-color: rgb(87, 172, 120);
+  color: white !important;
 }
 
 .letter-elsewhere {
   border: 2px dotted rgba(0, 0, 0, 0.3);
   background-color: #e9c601;
-  color: white;
+  color: white !important;
 }
 
 .letter-absent {
   border: 2px solid transparent;
   background-color: rgb(162, 162, 162);
-  color: white;
+  color: white !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #404040;
-    color: #e0e0e0;
-  }
+body.dark {
+  background-color: #404040;
+  color: #e0e0e0;
+}
 
-  .Game-keyboard-button {
-    color: #404040;
-  }
-
-  .Row-letter {
-    border: 2px solid rgba(255, 255, 255, 0.4);
-  }
-
-  .letter-correct {
-    border: 2px solid rgba(0, 0, 0, 0.3);
-    color: white;
-  }
-
-  .letter-elsewhere {
-    border: 2px dotted rgba(0, 0, 0, 0.3);
-    color: white;
-  }
-
-  .letter-absent {
-    border: 2px solid transparent;
-    background-color: rgb(142, 142, 142);
-    color: white;
-  }
+body.dark .Game-keyboard-button {
+  color: #404040;
 }
 
 a,
@@ -195,8 +200,68 @@ a:active {
   line-height: 1.4;
 }
 
+.App-about b {
+  background-color: #888;
+  color: white;
+  padding: 1px 3px;
+  border-radius: 2px;
+}
+
+.App-about b.green-bg {
+  background-color: rgb(87, 172, 120);
+}
+
+.App-about b.yellow-bg {
+  background-color: #e9c601;
+}
+
 .Game-seed-info {
   opacity: 0.5;
   margin-top: 1em;
   font-variant-numeric: tabular-nums;
+}
+
+.Game-sr-feedback,
+.sr-only {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.Settings {
+  text-align: left;
+  font-size: 18px;
+}
+
+.Settings-setting {
+  margin: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.Settings-setting input {
+  width: 18px;
+  height: 18px;
+}
+
+.Settings-setting label {
+  margin-inline-start: 8px;
+}
+
+.top-right {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.emoji-link {
+  font-size: 150%;
+  text-decoration: none;
+}
+
+.top-right a + a {
+  margin-inline-start: 8px;
 }
