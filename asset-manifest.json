@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bac4a12.css",
-    "main.js": "/static/js/main.f0c2277f.js",
+    "main.css": "/static/css/main.857fc8c7.css",
+    "main.js": "/static/js/main.f083b81f.js",
+    "static/media/DINPro-LightItalic.otf": "/static/media/DINPro-LightItalic.91b4e82cd68e1a61e84a.otf",
+    "static/media/DINPro.otf": "/static/media/DINPro.e5c718c9bdc063acfaa3.otf",
+    "static/media/DINPro-Light.otf": "/static/media/DINPro-Light.77eb6606c47dfefe5375.otf",
     "index.html": "/index.html",
-    "main.0bac4a12.css.map": "/static/css/main.0bac4a12.css.map",
-    "main.f0c2277f.js.map": "/static/js/main.f0c2277f.js.map"
+    "main.857fc8c7.css.map": "/static/css/main.857fc8c7.css.map",
+    "main.f083b81f.js.map": "/static/js/main.f083b81f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bac4a12.css",
-    "static/js/main.f0c2277f.js"
+    "static/css/main.857fc8c7.css",
+    "static/js/main.f083b81f.js"
   ]
 }
