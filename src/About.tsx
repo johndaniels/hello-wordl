@@ -14,11 +14,11 @@ export function About() {
       </p>
       <p>
         This game was based on <a href="https://github.com/lynn/hello-wordl">Lynn’s “hello wordl" project</a>. 
-        Check out <a href="https://foldr.moe/">her website</a> and <a href="https://ko-fi.com/chordbug">buy her an owkwa kaka to say thanks!</a>
+        Check out <a href="https://foldr.moe/">her website</a> and <a href="https://ko-fi.com/chordbug">buy her an <i>owkwa kaka</i> to say thanks!</a>
       </p>
       <h3>HOW TO PLAY</h3>
       <p>
-      You get 6 tries to guess da wowt da buza — the target word. Here’s an example: 
+      You get 6 tries to guess <i>da wowt da buza</i> — the target word. Here’s an example: 
       </p>
       <Row
         rowState={RowState.LockedIn}
@@ -46,7 +46,7 @@ export function About() {
         ]}
       />
       <p>
-        Now we know that there’s a Y, but it’s not in that place. More letters are greyed out, and we can see that our only available vowels are A and O.
+        Now we know that there’s a <b className="yellow-bg">Y</b>, but it’s not in that place. More letters are greyed out, and we can see that our only available vowels are A and O.
       </p>
       <Row
         rowState={RowState.LockedIn}
@@ -60,7 +60,7 @@ export function About() {
         ]}
       />
       <p>
-        So, we’re looking for a _ AN _ _ word that also has a G and a Y in it.  
+        So, we’re looking for a _ <b className="green-bg">A</b><b className="green-bg">N</b> _ _ word that also has a <b className="yellow-bg">G</b> and a <b className="yellow-bg">Y</b> in it.  
       </p>
       <Row
         rowState={RowState.LockedIn}

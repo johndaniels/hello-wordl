@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="App-container">
-      <h1>Wowtle</h1>
+      <h1><a href="/">Wowtle</a></h1>
       {page != "about" && <h2>Wowtel? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>}
       <div className="top-right">
         {page !== "game" ? (
@@ -71,7 +71,7 @@ function App() {
       <div
         style={{
           position: "absolute",
-          left: 5,
+          left: 15,
           top: 15,
           visibility: page === "game" ? "visible" : "hidden",
         }}
@@ -109,6 +109,7 @@ function App() {
       )}
       <Game maxGuesses={maxGuesses} hidden={page !== "game"} hard={hard} />
       <footer>
+        <div>Explore Belter words using the <a href="https://quickref.langbelta.org">Quick Reference</a>. </div>
         <div>Made with ♡ by <a href="https://twitter.com/ItReachesOut">a Lang Belta learner</a>, for the study and exploration of Lang Belta.</div>
     </footer>
     </div>

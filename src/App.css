@@ -25,6 +25,8 @@ body {
   font-family: DINPro;
   background-color: #effaff;
   color: #333;
+  margin: 0;
+  font-weight: 300;
 }
 
 .Row {
@@ -58,8 +60,9 @@ body {
   max-width: 600px;
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
+  padding: 10px;
   min-height: 100vh;
+  margin: 0 auto;
 }
 
 .App-container h1 {
@@ -68,17 +71,26 @@ body {
   margin-bottom: .4em
 }
 
+.App-container h1 a {
+  text-decoration: none;
+  color: #333;
+}
+
 .App-container h2 {
   margin-top: 0;
   font-size: 1em;
-  font-weight: 500;
+  font-weight: 300;
   text-transform: uppercase;
 }
 
 .App-container footer {
   margin-top: auto;
-  height: 50px;
 }
+
+.App-container footer div:first-child {
+  margin-bottom: .25em;
+}
+
 
 .Game,
 h1 {
@@ -179,11 +191,12 @@ body.dark .Game-keyboard-button {
 
 a,
 a:visited {
-  color: #8080ff;
+  color: #333;
+  text-decoration: dotted underline;
 }
 
 a:active {
-  color: #cc77ff;
+  color: #333;
 }
 
 .Game-options {
@@ -199,6 +212,16 @@ a:active {
 
 .Game-options button {
   min-width: 4rem;
+}
+
+.Game button {
+  background-color: #effaff;
+  border: 1px dotted #333;
+  border-radius: 5px;
+  padding: 1em;
+  cursor: pointer;
+  font-family: DINPro;
+  font-weight: 300;
 }
 
 .App-footer {
@@ -225,6 +248,10 @@ a:active {
 
 .App-about b.yellow-bg {
   background-color: #e9c601;
+}
+
+.App-about b.grey-bg {
+  background-color: rgb(162, 162, 162)
 }
 
 .Game-seed-info {
@@ -267,7 +294,7 @@ a:active {
 .top-right {
   position: absolute;
   top: 15px;
-  right: 5px;
+  right: 15px;
 }
 
 .emoji-link {
