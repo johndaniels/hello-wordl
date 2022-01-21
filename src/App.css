@@ -24,6 +24,7 @@ body {
   text-align: center;
   font-family: DINPro;
   background-color: #effaff;
+  color: #333;
 }
 
 .Row {
@@ -64,6 +65,7 @@ body {
 .App-container h1 {
   text-transform: uppercase;
   margin-top: 0;
+  margin-bottom: .4em
 }
 
 .App-container h2 {
@@ -83,9 +85,17 @@ h1 {
   user-select: none;
 }
 
+.Game .definition {
+  font-weight: 700;
+}
+
 .Game {
   display: flex;
   flex-direction: column;
+}
+
+.Game .hint {
+  min-height: 4em;
 }
 
 table.Game-rows {
@@ -220,6 +230,7 @@ a:active {
 .Game-seed-info {
   opacity: 0.5;
   margin-top: 1em;
+  margin-bottom: 0.25em;
   font-variant-numeric: tabular-nums;
 }
 

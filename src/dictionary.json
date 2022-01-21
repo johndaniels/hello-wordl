@@ -2,3286 +2,4593 @@
     {
         "original": "adewu",
         "target": "adewu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "song(s)"
     },
     {
         "original": "afeta",
         "target": "afeta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "impact(s), effect(s)"
     },
     {
         "original": "amash",
         "target": "amash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(conj.)",
+        "gloss": "but"
     },
     {
         "original": "ámawala",
         "target": "ámawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "lover(s), partner(s)"
     },
     {
         "original": "ámolof",
         "target": "ámolof",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "love"
     },
     {
         "original": "ando",
         "target": "ando",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(asp. mkr.)",
+        "gloss": "forms continuing actions"
     },
     {
         "original": "ansa",
         "target": "ansa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "answer(s)"
     },
     {
         "original": "anyalasi",
         "target": "anyalasi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "analysis (see anyalisi)"
     },
     {
         "original": "anyalisi",
         "target": "anyalisi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "analysis"
     },
     {
         "original": "ányimal",
         "target": "ányimal",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "animal(s)"
     },
     {
         "original": "anyiye",
         "target": "anyiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "year(s)"
     },
     {
         "original": "apapish",
         "target": "apapish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "apoapsis"
     },
     {
         "original": "aseroka",
         "target": "aseroka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "asteroid(s)"
     },
     {
         "original": "asilik",
         "target": "asilik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "like, in the manner of"
     },
     {
         "original": "avita",
         "target": "avita",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to avoid"
     },
     {
         "original": "bang",
         "target": "bang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to steer"
     },
     {
         "original": "bap",
         "target": "bap",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "door(s)"
     },
     {
         "original": "baseng",
         "target": "baseng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "clothes, clothing"
     },
     {
         "original": "bek",
         "target": "bek",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "back (to a place)"
     },
     {
         "original": "bek",
         "target": "bek",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to break"
     },
     {
         "original": "bekedabúsh",
         "target": "bekedabúsh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "delicious"
     },
     {
         "original": "bekpelésh",
         "target": "bekpelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "broken place(s), leak(s)"
     },
     {
         "original": "beláng",
         "target": "beláng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "white"
     },
     {
         "original": "belék",
         "target": "belék",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "black"
     },
     {
         "original": "belówt",
         "target": "belówt",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "blood"
     },
     {
         "original": "belta",
         "target": "belta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "belter"
     },
     {
         "original": "belta",
         "target": "belta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Belter(s)"
     },
     {
         "original": "beltalowda",
         "target": "beltalowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "all Belters"
     },
     {
         "original": "beltawala",
         "target": "beltawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Belter-lover(s)"
     },
     {
         "original": "belú",
         "target": "belú",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "blue, green"
     },
     {
         "original": "bera",
         "target": "bera",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(det.)",
+        "gloss": "only"
     },
     {
         "original": "beratna",
         "target": "beratna",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "brother(s)"
     },
     {
         "original": "beref",
         "target": "beref",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "birth"
     },
     {
         "original": "beve",
         "target": "beve",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to drink"
     },
     {
         "original": "béveting",
         "target": "béveting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "drink(s), beverage(s)"
     },
     {
         "original": "bi",
         "target": "bi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to be in a location"
     },
     {
         "original": "bik",
         "target": "bik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "big, thick, wide, grand"
     },
     {
         "original": "bikang",
         "target": "bikang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "beacon(s)"
     },
     {
         "original": "bingi",
         "target": "bingi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fun"
     },
     {
         "original": "bitnesh",
         "target": "bitnesh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "business"
     },
     {
         "original": "biya",
         "target": "biya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "beer"
     },
     {
         "original": "biya",
         "target": "biya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "beer"
     },
     {
         "original": "bodzha",
         "target": "bodzha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "explosion(s)"
     },
     {
         "original": "bosmang",
         "target": "bosmang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "boss(es), crew chief(s), leader(s)"
     },
     {
         "original": "botiya",
         "target": "botiya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bottle(s)"
     },
     {
         "original": "botong",
         "target": "botong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "button(s)"
     },
     {
         "original": "bowl",
         "target": "bowl",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "toy ball(s)"
     },
     {
         "original": "buk",
         "target": "buk",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "book(s)"
     },
     {
         "original": "bukipelésh",
         "target": "bukipelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bookstore(s)"
     },
     {
         "original": "burito",
         "target": "burito",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "burrito(s)"
     },
     {
         "original": "buro",
         "target": "buro",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "donkey(s)"
     },
     {
         "original": "bush",
         "target": "bush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mouth/mouthes"
     },
     {
         "original": "but",
         "target": "but",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "boot(s)"
     },
     {
         "original": "buza",
         "target": "buza",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "target(s)"
     },
     {
         "original": "chek",
         "target": "chek",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "check(s)"
     },
     {
         "original": "chesh",
         "target": "chesh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hunt(s)"
     },
     {
         "original": "chu",
         "target": "chu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to choose"
     },
     {
         "original": "da",
         "target": "da",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(def. art.)",
+        "gloss": "the"
     },
     {
         "original": "dansa",
         "target": "dansa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to dance"
     },
     {
         "original": "data",
         "target": "data",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "data"
     },
     {
         "original": "de",
         "target": "de",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "there, that"
     },
     {
         "original": "decho",
         "target": "decho",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to die"
     },
     {
         "original": "dédawang",
         "target": "dédawang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "that (one)"
     },
     {
         "original": "dédeya",
         "target": "dédeya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "there (far away)"
     },
     {
         "original": "dek",
         "target": "dek",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "deck(s)"
     },
     {
         "original": "delowda",
         "target": "delowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "that many, that much"
     },
     {
         "original": "demang",
         "target": "demang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "(the person) who"
     },
     {
         "original": "deng",
         "target": "deng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "then"
     },
     {
         "original": "depelésh",
         "target": "depelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "(the place) where"
     },
     {
         "original": "depeshang",
         "target": "depeshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "depression"
     },
     {
         "original": "deradzhang",
         "target": "deradzhang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "(the reason) why"
     },
     {
         "original": "desh",
         "target": "desh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "there is/are, \"there exists\""
     },
     {
         "original": "det",
         "target": "det",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "dead"
     },
     {
         "original": "detim",
         "target": "detim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "(the time) when"
     },
     {
         "original": "deting",
         "target": "deting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "(the thing) that"
     },
     {
         "original": "deva",
         "target": "deva",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "supernatural being(s)"
     },
     {
         "original": "dewe",
         "target": "dewe",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "(the way) that"
     },
     {
         "original": "deya",
         "target": "deya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "there"
     },
     {
         "original": "diye",
         "target": "diye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "day(s)"
     },
     {
         "original": "do",
         "target": "do",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "anus(es), ass(es)"
     },
     {
         "original": "dok",
         "target": "dok",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "document(s)"
     },
     {
         "original": "dokiwala",
         "target": "dokiwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "librarian(s), curator(s)"
     },
     {
         "original": "dowta",
         "target": "dowta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "daughter(s)"
     },
     {
         "original": "du",
         "target": "du",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to do or make, used to create verbs"
     },
     {
         "original": "du-showxa",
         "target": "dushowxa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "chat(s)"
     },
     {
         "original": "du-showxa",
         "target": "dushowxa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to chat"
     },
     {
         "original": "dura",
         "target": "dura",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "hard, difficult"
     },
     {
         "original": "dusi",
         "target": "dusi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "sweet"
     },
     {
         "original": "dusiwala",
         "target": "dusiwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sweetheart, sweetie (term of endearment, sometimes used sarcastically)"
     },
     {
         "original": "duting",
         "target": "duting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "control"
     },
     {
         "original": "duting",
         "target": "duting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "console(s), terminal(s)"
     },
     {
         "original": "dzhemang",
         "target": "dzhemang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "crooked-dick"
     },
     {
         "original": "dzhi",
         "target": "dzhi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "G (acceleration gravity)"
     },
     {
         "original": "dzhing",
         "target": "dzhing",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gin"
     },
     {
         "original": "dzhogem",
         "target": "dzhogem",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "game(s)"
     },
     {
         "original": "dzhush",
         "target": "dzhush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "the \"juice\""
     },
     {
         "original": "edamame",
         "target": "edamame",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "edamame"
     },
     {
         "original": "efa",
         "target": "efa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "next, after"
     },
     {
         "original": "eka",
         "target": "eka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "equal"
     },
     {
         "original": "ékepesh",
         "target": "ékepesh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to express"
     },
     {
         "original": "eletik",
         "target": "eletik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "electrical"
     },
     {
         "original": "eletisi",
         "target": "eletisi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "electrical"
     },
     {
         "original": "ematim",
         "target": "ematim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "soon"
     },
     {
         "original": "éntediye",
         "target": "éntediye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Wednesday"
     },
     {
         "original": "ényedzhi",
         "target": "ényedzhi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "power, energy"
     },
     {
         "original": "epinya",
         "target": "epinya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "spine(s), back(s)"
     },
     {
         "original": "épisot",
         "target": "épisot",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "episode(s)"
     },
     {
         "original": "ere",
         "target": "ere",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "in, on, about"
     },
     {
         "original": "erefo",
         "target": "erefo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "into"
     },
     {
         "original": "erelúf/éreluf",
         "target": "erelúf",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "air, spirit"
     },
     {
         "original": "érete",
         "target": "érete",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Earth (planet)"
     },
     {
         "original": "et",
         "target": "et",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "eight"
     },
     {
         "original": "et",
         "target": "et",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to eat"
     },
     {
         "original": "étera",
         "target": "étera",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "extra, additional"
     },
     {
         "original": "éteteng",
         "target": "éteteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "eighty"
     },
     {
         "original": "étexanya",
         "target": "étexanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "eight-hundred"
     },
     {
         "original": "faf",
         "target": "faf",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "five"
     },
     {
         "original": "fáfexanya",
         "target": "fáfexanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "five-hundred"
     },
     {
         "original": "fash",
         "target": "fash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "speed"
     },
     {
         "original": "fash",
         "target": "fash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "fast"
     },
     {
         "original": "fáveteng",
         "target": "fáveteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "fifty"
     },
     {
         "original": "felota",
         "target": "felota",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "floating"
     },
     {
         "original": "ferádiye",
         "target": "ferádiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Friday"
     },
     {
         "original": "ferí",
         "target": "ferí",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "free"
     },
     {
         "original": "feriting",
         "target": "feriting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "freedom"
     },
     {
         "original": "feronte",
         "target": "feronte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "frontier(s), passage(s)"
     },
     {
         "original": "fewa",
         "target": "fewa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "faith"
     },
     {
         "original": "fibafare",
         "target": "fibafare",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fever(s)"
     },
     {
         "original": "fidesh",
         "target": "fidesh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "trust"
     },
     {
         "original": "fing",
         "target": "fing",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "until, after some time"
     },
     {
         "original": "finyish",
         "target": "finyish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(asp. mkr.)",
+        "gloss": "forms completed actions"
     },
     {
         "original": "fit",
         "target": "fit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "feed(s), broadcast(s)"
     },
     {
         "original": "fo",
         "target": "fo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "for, to, because of"
     },
     {
         "original": "fodagut",
         "target": "fodagut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "please"
     },
     {
         "original": "fode",
         "target": "fode",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "away, to there"
     },
     {
         "original": "fong",
         "target": "fong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "from"
     },
     {
         "original": "fongi",
         "target": "fongi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "from here"
     },
     {
         "original": "fore",
         "target": "fore",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "before"
     },
     {
         "original": "foriya",
         "target": "foriya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "real"
     },
     {
         "original": "fosh",
         "target": "fosh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(ord.)",
+        "gloss": "first"
     },
     {
         "original": "fosho",
         "target": "fosho",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(mood mkr.)",
+        "gloss": "indicates belief"
     },
     {
         "original": "fotet",
         "target": "fotet",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "trade (commerce)"
     },
     {
         "original": "foto",
         "target": "foto",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "photo(s), photograph(s)"
     },
     {
         "original": "fotowala",
         "target": "fotowala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "journalist, photographer"
     },
     {
         "original": "fu",
         "target": "fu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "four"
     },
     {
         "original": "fut",
         "target": "fut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "food(s)"
     },
     {
         "original": "futeng",
         "target": "futeng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "forty"
     },
     {
         "original": "fúxanya",
         "target": "fúxanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "four-hundred"
     },
     {
         "original": "gang",
         "target": "gang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "excursion(s)"
     },
     {
         "original": "ganya",
         "target": "ganya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to win"
     },
     {
         "original": "gányamang",
         "target": "gányamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "winner(s)"
     },
     {
         "original": "gash",
         "target": "gash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gas"
     },
     {
         "original": "gatamang",
         "target": "gatamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "guard(s), guardian(s)"
     },
     {
         "original": "ge",
         "target": "ge",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to get"
     },
     {
         "original": "gelori",
         "target": "gelori",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "glory"
     },
     {
         "original": "gerówsh",
         "target": "gerówsh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "great, grand"
     },
     {
         "original": "gif",
         "target": "gif",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to give"
     },
     {
         "original": "gif-go",
         "target": "gifgo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to transfer"
     },
     {
         "original": "gif-peye",
         "target": "gifpeye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to pay"
     },
     {
         "original": "giviwala",
         "target": "giviwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "patron(s)"
     },
     {
         "original": "go",
         "target": "go",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to go"
     },
     {
         "original": "godzha",
         "target": "godzha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gyoza"
     },
     {
         "original": "gonya",
         "target": "gonya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(tns. mkr.)",
+        "gloss": "forms the future tense"
     },
     {
         "original": "gosh",
         "target": "gosh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "left (side)"
     },
     {
         "original": "got",
         "target": "got",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "god(s)"
     },
     {
         "original": "gótefodam",
         "target": "gótefodam",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "goddamn"
     },
     {
         "original": "gova",
         "target": "gova",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "head(s)"
     },
     {
         "original": "gova-tet",
         "target": "govatet",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "anger, confusion"
     },
     {
         "original": "govawala",
         "target": "govawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "psychiatrist(s)"
     },
     {
         "original": "gufovedi",
         "target": "gufovedi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "good-looking, beautiful"
     },
     {
         "original": "gut",
         "target": "gut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "good"
     },
     {
         "original": "gútegow",
         "target": "gútegow",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "ready"
     },
     {
         "original": "gútemang",
         "target": "gútemang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gender-neutral honorific title"
     },
     {
         "original": "idzhi",
         "target": "idzhi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "easy"
     },
     {
         "original": "idzhifobék",
         "target": "idzhifobék",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "weak, brittle"
     },
     {
         "original": "im",
         "target": "im",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "third-person singular (they/them/their, she/her/hers, he/him/his, it/its)"
     },
     {
         "original": "imalowda",
         "target": "imalowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "third-person plural (they/them/their)"
     },
     {
         "original": "imbobo",
         "target": "imbobo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hole(s), apartment(s), room(s)"
     },
     {
         "original": "imim",
         "target": "imim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "third-person indefinite (\"they\")"
     },
     {
         "original": "impake",
         "target": "impake",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "(n.)",
+        "gloss": "impact(s)"
     },
     {
         "original": "inteng",
         "target": "inteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "intern(s)"
     },
     {
         "original": "inya",
         "target": "inya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Inner(s)"
     },
     {
         "original": "inyalowda",
         "target": "inyalowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "all Inners"
     },
     {
         "original": "ipulangi",
         "target": "ipulangi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bed(s)"
     },
     {
         "original": "kaka",
         "target": "kaka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "poop, shit"
     },
     {
         "original": "kamera",
         "target": "kamera",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "camera(s)"
     },
     {
         "original": "kang",
         "target": "kang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to be able to, \"can\""
     },
     {
         "original": "kapa",
         "target": "kapa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to capture"
     },
     {
         "original": "kapawu",
         "target": "kapawu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "spaceship(s)"
     },
     {
         "original": "kasi",
         "target": "kasi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "almost"
     },
     {
         "original": "kasinyo",
         "target": "kasinyo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "casino(s)"
     },
     {
         "original": "kaxa",
         "target": "kaxa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "box(es)"
     },
     {
         "original": "ke",
         "target": "ke",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q. ptcl.)",
+        "gloss": "creates \"yes or no\" questions"
     },
     {
         "original": "kédawang",
         "target": "kédawang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "which?"
     },
     {
         "original": "kekoku",
         "target": "kekoku",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "warning"
     },
     {
         "original": "kelowda",
         "target": "kelowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "how many, how much?"
     },
     {
         "original": "kemang",
         "target": "kemang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "who?"
     },
     {
         "original": "kená",
         "target": "kená",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q. tag)",
+        "gloss": "...no? (negative question tag)"
     },
     {
         "original": "keng",
         "target": "keng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to know a person or subject"
     },
     {
         "original": "kepelésh",
         "target": "kepelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "where?"
     },
     {
         "original": "keradzhang",
         "target": "keradzhang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "why?"
     },
     {
         "original": "keredu",
         "target": "keredu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "gullible"
     },
     {
         "original": "ketim",
         "target": "ketim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "when?"
     },
     {
         "original": "keting",
         "target": "keting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "what?"
     },
     {
         "original": "kewe",
         "target": "kewe",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "how?"
     },
     {
         "original": "keweting",
         "target": "keweting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q.)",
+        "gloss": "what kind, what type?"
     },
     {
         "original": "keyá",
         "target": "keyá",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(q. tag)",
+        "gloss": "...right? (positive question tag)"
     },
     {
         "original": "kímechi",
         "target": "kímechi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "kimchi"
     },
     {
         "original": "ko",
         "target": "ko",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "Okay!, affirmative"
     },
     {
         "original": "kom",
         "target": "kom",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to come"
     },
     {
         "original": "kom-go",
         "target": "komgo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to arrive"
     },
     {
         "original": "koma",
         "target": "koma",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "decimal point(s)"
     },
     {
         "original": "komante",
         "target": "komante",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "command, management"
     },
     {
         "original": "kombat",
         "target": "kombat",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "combat"
     },
     {
         "original": "kómeting",
         "target": "kómeting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "received thing"
     },
     {
         "original": "koming",
         "target": "koming",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "arrival(s)"
     },
     {
         "original": "kondenashang",
         "target": "kondenashang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "condemnation(s)"
     },
     {
         "original": "kong",
         "target": "kong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "next"
     },
     {
         "original": "kontów",
         "target": "kontów",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "control"
     },
     {
         "original": "kopa",
         "target": "kopa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "cup(s)"
     },
     {
         "original": "kopeng",
         "target": "kopeng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "friend(s)"
     },
     {
         "original": "kopush",
         "target": "kopush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "body"
     },
     {
         "original": "kori",
         "target": "kori",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "heart(s), core(s)"
     },
     {
         "original": "kosh",
         "target": "kosh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "price(s)"
     },
     {
         "original": "kosh",
         "target": "kosh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "close, near"
     },
     {
         "original": "kowl",
         "target": "kowl",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(quant.)",
+        "gloss": "all, every"
     },
     {
         "original": "kowltim",
         "target": "kowltim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "always, every time"
     },
     {
         "original": "kowlting",
         "target": "kowlting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "everything"
     },
     {
         "original": "kowmang",
         "target": "kowmang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "everyone, everybody"
     },
     {
         "original": "kowpelésh",
         "target": "kowpelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "everywhere"
     },
     {
         "original": "koyo",
         "target": "koyo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "any canine(s) or feline(s)"
     },
     {
         "original": "kuku",
         "target": "kuku",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "outside a ship or station"
     },
     {
         "original": "kula",
         "target": "kula",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "ball(s), sphere(s), testicle(s) (slang)"
     },
     {
         "original": "kush",
         "target": "kush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to crash"
     },
     {
         "original": "kuwang",
         "target": "kuwang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "corner(s)"
     },
     {
         "original": "kuxaku",
         "target": "kuxaku",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "space, vacuum"
     },
     {
         "original": "lang",
         "target": "lang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "language(s)"
     },
     {
         "original": "lángemang",
         "target": "lángemang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "linguist(s)"
     },
     {
         "original": "lansh",
         "target": "lansh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to launch"
     },
     {
         "original": "le",
         "target": "le",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to lay, to lie (down)"
     },
     {
         "original": "légawu",
         "target": "légawu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "legal"
     },
     {
         "original": "lek",
         "target": "lek",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "leg(s), foot/feet"
     },
     {
         "original": "lenta",
         "target": "lenta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "slowly"
     },
     {
         "original": "leta",
         "target": "leta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to take"
     },
     {
         "original": "leta-go",
         "target": "letago",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to take (away)"
     },
     {
         "original": "leta-kom",
         "target": "letakom",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to bring"
     },
     {
         "original": "leva",
         "target": "leva",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to raise, to stand"
     },
     {
         "original": "leyal",
         "target": "leyal",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "loyal"
     },
     {
         "original": "leyalting",
         "target": "leyalting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "loyalty"
     },
     {
         "original": "lik",
         "target": "lik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "like, similar to"
     },
     {
         "original": "líperi",
         "target": "líperi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "software library, software libraries"
     },
     {
         "original": "lit",
         "target": "lit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to read"
     },
     {
         "original": "livit",
         "target": "livit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "life/lives"
     },
     {
         "original": "liviting",
         "target": "liviting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "living thing(s)"
     },
     {
         "original": "lok",
         "target": "lok",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "locked"
     },
     {
         "original": "losh",
         "target": "losh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "loss(es)"
     },
     {
         "original": "lowkedong",
         "target": "lowkedong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "lockdown(s)"
     },
     {
         "original": "lowng",
         "target": "lowng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "long, far"
     },
     {
         "original": "lusa",
         "target": "lusa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to lose (an object)"
     },
     {
         "original": "lúsamang",
         "target": "lúsamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "loser(s)"
     },
     {
         "original": "lush",
         "target": "lush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "light (color)"
     },
     {
         "original": "ma",
         "target": "ma",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mother(s), \"Mum/Mom\""
     },
     {
         "original": "mal",
         "target": "mal",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "bad"
     },
     {
         "original": "mali",
         "target": "mali",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "small, thin, young"
     },
     {
         "original": "málimang",
         "target": "málimang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "child/children"
     },
     {
         "original": "maliwala",
         "target": "maliwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "child(ren), \"little one(s)\""
     },
     {
         "original": "mama",
         "target": "mama",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mother(s)"
     },
     {
         "original": "mámamang",
         "target": "mámamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mama's boy(s)"
     },
     {
         "original": "mang",
         "target": "mang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "person/people"
     },
     {
         "original": "manting",
         "target": "manting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "humankind, humanity"
     },
     {
         "original": "mash",
         "target": "mash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "propellant"
     },
     {
         "original": "materi",
         "target": "materi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "matter"
     },
     {
         "original": "matna",
         "target": "matna",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mother(s)"
     },
     {
         "original": "matnawala",
         "target": "matnawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mother-obsessed person"
     },
     {
         "original": "mebi",
         "target": "mebi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(mood mkr.)",
+        "gloss": "indicates possibility"
     },
     {
         "original": "mediwala",
         "target": "mediwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "doctor(s)"
     },
     {
         "original": "melodiye",
         "target": "melodiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "melody/melodies"
     },
     {
         "original": "meng",
         "target": "meng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "noodle(s)"
     },
     {
         "original": "menyu",
         "target": "menyu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "menu(s)"
     },
     {
         "original": "mesa",
         "target": "mesa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "board(s), table(s)"
     },
     {
         "original": "mesach",
         "target": "mesach",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "message(s)"
     },
     {
         "original": "meshang",
         "target": "meshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mission(s)"
     },
     {
         "original": "métexeng",
         "target": "métexeng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "young woman/young women"
     },
     {
         "original": "meyo",
         "target": "meyo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "honor"
     },
     {
         "original": "mi",
         "target": "mi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "first-person singular (I/me/my)"
     },
     {
         "original": "milowda",
         "target": "milowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "first-person plural (we/us/our)"
     },
     {
         "original": "minyi",
         "target": "minyi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "minute(s)"
     },
     {
         "original": "miso",
         "target": "miso",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "miso"
     },
     {
         "original": "misong",
         "target": "misong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mission(s)"
     },
     {
         "original": "mo",
         "target": "mo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "more"
     },
     {
         "original": "mogut",
         "target": "mogut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "better"
     },
     {
         "original": "momal",
         "target": "momal",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "worse"
     },
     {
         "original": "momenta",
         "target": "momenta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "moment(s)"
     },
     {
         "original": "mosh",
         "target": "mosh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "most"
     },
     {
         "original": "moshisolo",
         "target": "moshisolo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "loneliest"
     },
     {
         "original": "mowsh",
         "target": "mowsh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(mood mkr.)",
+        "gloss": "must"
     },
     {
         "original": "mowteng",
         "target": "mowteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "need(s), necessity/necessities"
     },
     {
         "original": "mung",
         "target": "mung",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "moon(s)"
     },
     {
         "original": "na",
         "target": "na",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "no, not"
     },
     {
         "original": "nada",
         "target": "nada",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "zero"
     },
     {
         "original": "nadzhush",
         "target": "nadzhush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "tired"
     },
     {
         "original": "nafut",
         "target": "nafut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hunger"
     },
     {
         "original": "nago",
         "target": "nago",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "off, not functioning"
     },
     {
         "original": "nakángego",
         "target": "nakángego",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "stuck"
     },
     {
         "original": "nakángikeng",
         "target": "nakángikeng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "unknowable, unknowable thing(s)"
     },
     {
         "original": "nalik",
         "target": "nalik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "unlike"
     },
     {
         "original": "nalok",
         "target": "nalok",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "unlocked"
     },
     {
         "original": "nalush",
         "target": "nalush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "dark (color)"
     },
     {
         "original": "namang",
         "target": "namang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "nobody"
     },
     {
         "original": "nang",
         "target": "nang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "nine"
     },
     {
         "original": "nángeteng",
         "target": "nángeteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "ninety"
     },
     {
         "original": "nángexanya",
         "target": "nángexanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "nine-hundred"
     },
     {
         "original": "nasheng",
         "target": "nasheng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "untruth(s)"
     },
     {
         "original": "nasunte",
         "target": "nasunte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "sick"
     },
     {
         "original": "náterash",
         "target": "náterash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "on the float, without engine thrust"
     },
     {
         "original": "natét",
         "target": "natét",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "loose, relaxed"
     },
     {
         "original": "natim",
         "target": "natim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "never"
     },
     {
         "original": "nating",
         "target": "nating",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "nothing"
     },
     {
         "original": "navigeshang",
         "target": "navigeshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "navigation"
     },
     {
         "original": "nawit",
         "target": "nawit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "without"
     },
     {
         "original": "nax",
         "target": "nax",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "night(s)"
     },
     {
         "original": "nem",
         "target": "nem",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "name(s)"
     },
     {
         "original": "not",
         "target": "not",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "node(s)"
     },
     {
         "original": "nuva",
         "target": "nuva",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "new"
     },
     {
         "original": "o",
         "target": "o",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(conj.)",
+        "gloss": "or"
     },
     {
         "original": "obi",
         "target": "obi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Obeah"
     },
     {
         "original": "ofisha",
         "target": "ofisha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "official"
     },
     {
         "original": "okwakakawala",
         "target": "okwakakawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "barista(s)"
     },
     {
         "original": "ong",
         "target": "ong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "own"
     },
     {
         "original": "onyigiri",
         "target": "onyigiri",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "onigiri"
     },
     {
         "original": "openg",
         "target": "openg",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to open"
     },
     {
         "original": "operashang",
         "target": "operashang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "operations"
     },
     {
         "original": "ora",
         "target": "ora",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hour(s)"
     },
     {
         "original": "oso",
         "target": "oso",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "also"
     },
     {
         "original": "ówala",
         "target": "ówala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "plumber(s), someone obsessed with orifices (insult)"
     },
     {
         "original": "owbit",
         "target": "owbit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "orbit(s)"
     },
     {
         "original": "owkwa",
         "target": "owkwa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "water"
     },
     {
         "original": "owlesi",
         "target": "owlesi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "lazy"
     },
     {
         "original": "owte",
         "target": "owte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "old"
     },
     {
         "original": "oxo",
         "target": "oxo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "an interjection (\"Oh...\", \"So...\", \"Hey...\")"
     },
     {
         "original": "oxo",
         "target": "oxo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "eye(s)"
     },
     {
         "original": "oye",
         "target": "oye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "hello"
     },
     {
         "original": "oyedeng",
         "target": "oyedeng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "goodbye"
     },
     {
         "original": "pagal",
         "target": "pagal",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "crazy"
     },
     {
         "original": "pampa",
         "target": "pampa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "uncle(s), an address for older men"
     },
     {
         "original": "papeka",
         "target": "papeka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sin(s), transgression(s)"
     },
     {
         "original": "pash",
         "target": "pash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(conj.)",
+        "gloss": "than (used for comparison)"
     },
     {
         "original": "pash",
         "target": "pash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "peace"
     },
     {
         "original": "pashang",
         "target": "pashang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "fucking"
     },
     {
         "original": "pashang",
         "target": "pashang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "Fuck! (can express negative feelings or admiration)"
     },
     {
         "original": "pashang",
         "target": "pashang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to fuck, to have sex"
     },
     {
         "original": "pashángimang",
         "target": "pashángimang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fucker(s)\\"
     },
     {
         "original": "pashángimang",
         "target": "pashángimang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fucker(s) (insult)"
     },
     {
         "original": "pashangwala",
         "target": "pashangwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fucker"
     },
     {
         "original": "pati",
         "target": "pati",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "party/parties, side(s)"
     },
     {
         "original": "páxari",
         "target": "páxari",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "source(s), informant(s)"
     },
     {
         "original": "paxo",
         "target": "paxo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "short"
     },
     {
         "original": "paxoníseki",
         "target": "paxoníseki",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "short person (pejorative)"
     },
     {
         "original": "paxopigi",
         "target": "paxopigi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Inner cop (pejorative)"
     },
     {
         "original": "pegunta",
         "target": "pegunta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "question(s)"
     },
     {
         "original": "pelésh",
         "target": "pelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "place(s)"
     },
     {
         "original": "pelésh-pelésh",
         "target": "peléshpelésh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "places (abstract)"
     },
     {
         "original": "peng",
         "target": "peng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "pain(s), pity"
     },
     {
         "original": "pensa",
         "target": "pensa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to think, to believe"
     },
     {
         "original": "perepish",
         "target": "perepish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "periapsis"
     },
     {
         "original": "peroba",
         "target": "peroba",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to try, to sample"
     },
     {
         "original": "pesha",
         "target": "pesha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "pressure"
     },
     {
         "original": "peshi",
         "target": "peshi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fish, fishes"
     },
     {
         "original": "pexa",
         "target": "pexa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gender-neutral partner(s) or spouse(s)"
     },
     {
         "original": "péyeting",
         "target": "péyeting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "payment(s)"
     },
     {
         "original": "pikante",
         "target": "pikante",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "spicy"
     },
     {
         "original": "pilota",
         "target": "pilota",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "pilot(s)"
     },
     {
         "original": "pirata",
         "target": "pirata",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "pirate(s)"
     },
     {
         "original": "pish",
         "target": "pish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "pitch, vertical angle (in navigation)"
     },
     {
         "original": "pish",
         "target": "pish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "casino chip(s)"
     },
     {
         "original": "pish",
         "target": "pish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "piss, urine"
     },
     {
         "original": "po",
         "target": "po",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "dust"
     },
     {
         "original": "pochuye",
         "target": "pochuye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to hear, to understand"
     },
     {
         "original": "pólisi",
         "target": "pólisi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "policy/policies"
     },
     {
         "original": "pomang",
         "target": "pomang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Martian(s), Duster(s)"
     },
     {
         "original": "pura",
         "target": "pura",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "pure"
     },
     {
         "original": "push",
         "target": "push",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "push(es), jump(s)"
     },
     {
         "original": "radzhang",
         "target": "radzhang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "reason(s)"
     },
     {
         "original": "rat",
         "target": "rat",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "rat"
     },
     {
         "original": "raya",
         "target": "raya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "beam(s)"
     },
     {
         "original": "redeshang",
         "target": "redeshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "radiation"
     },
     {
         "original": "rédzherosh",
         "target": "rédzherosh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "rage"
     },
     {
         "original": "redzhulta",
         "target": "redzhulta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "result(s)"
     },
     {
         "original": "rémbera",
         "target": "rémbera",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to remember"
     },
     {
         "original": "ret",
         "target": "ret",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "red"
     },
     {
         "original": "retnet",
         "target": "retnet",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "network(s)"
     },
     {
         "original": "revelushang",
         "target": "revelushang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "revolution"
     },
     {
         "original": "richa",
         "target": "richa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "right (side)"
     },
     {
         "original": "rísiko",
         "target": "rísiko",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "risk(s)"
     },
     {
         "original": "ritem",
         "target": "ritem",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "rhythm(s)"
     },
     {
         "original": "riyaka",
         "target": "riyaka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to react"
     },
     {
         "original": "rowm",
         "target": "rowm",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "liquor, alcohol"
     },
     {
         "original": "rowmwala",
         "target": "rowmwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bartender(s)"
     },
     {
         "original": "rowu",
         "target": "rowu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "roll (in navigation)"
     },
     {
         "original": "ruchirownya",
         "target": "ruchirownya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "selfish risk-taker (pejorative)"
     },
     {
         "original": "rúserux",
         "target": "rúserux",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "face(s)"
     },
     {
         "original": "sabaka",
         "target": "sabaka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bitch(es), whore(s) (pejorative)"
     },
     {
         "original": "sabakawala",
         "target": "sabakawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "whoremonger(s) (pejorative)"
     },
     {
         "original": "sake",
         "target": "sake",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sake"
     },
     {
         "original": "sako",
         "target": "sako",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bag(s)"
     },
     {
         "original": "sakopinya",
         "target": "sakopinya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "backpack(s)"
     },
     {
         "original": "salta",
         "target": "salta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "jump(s), leap(s)"
     },
     {
         "original": "sasa",
         "target": "sasa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to know a fact or skill"
     },
     {
         "original": "sáviting",
         "target": "sáviting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "salvage(s)"
     },
     {
         "original": "sedneshang",
         "target": "sedneshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sedation"
     },
     {
         "original": "séfesowng",
         "target": "séfesowng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "safe"
     },
     {
         "original": "séfeti",
         "target": "séfeti",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "safety"
     },
     {
         "original": "sefoka",
         "target": "sefoka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to choke, to suffocate"
     },
     {
         "original": "sekang",
         "target": "sekang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "second(s)"
     },
     {
         "original": "sekáng",
         "target": "sekáng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "scan(s)"
     },
     {
         "original": "sekeríp",
         "target": "sekeríp",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "scrip, electronic currency"
     },
     {
         "original": "sekóch",
         "target": "sekóch",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "scotch"
     },
     {
         "original": "seleshang",
         "target": "seleshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "acceleration"
     },
     {
         "original": "sem",
         "target": "sem",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to seed"
     },
     {
         "original": "semówt",
         "target": "semówt",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "know-it-all"
     },
     {
         "original": "sémpere",
         "target": "sémpere",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "forever, eternity"
     },
     {
         "original": "seng",
         "target": "seng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "seven"
     },
     {
         "original": "séngeteng",
         "target": "séngeteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "seventy"
     },
     {
         "original": "séngexanya",
         "target": "séngexanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "seven-hundred"
     },
     {
         "original": "senyawu",
         "target": "senyawu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "signal(s)"
     },
     {
         "original": "senyidiye",
         "target": "senyidiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "week(s)"
     },
     {
         "original": "sepíng",
         "target": "sepíng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "spin, artificial gravity from centrifugal force"
     },
     {
         "original": "sera",
         "target": "sera",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to close"
     },
     {
         "original": "serí",
         "target": "serí",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "three"
     },
     {
         "original": "seríp",
         "target": "seríp",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "scrip, electronic currency"
     },
     {
         "original": "seriteng",
         "target": "seriteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "thirty"
     },
     {
         "original": "seritenyidiye",
         "target": "seritenyidiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "month"
     },
     {
         "original": "seríxanya",
         "target": "seríxanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "three-hundred"
     },
     {
         "original": "ses",
         "target": "ses",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sis (colloquial)"
     },
     {
         "original": "sésata",
         "target": "sésata",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sister(s)"
     },
     {
         "original": "setara",
         "target": "setara",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "star(s)"
     },
     {
         "original": "seteráx",
         "target": "seteráx",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fear"
     },
     {
         "original": "seteshang",
         "target": "seteshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "station(s)"
     },
     {
         "original": "setóp",
         "target": "setóp",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to stop"
     },
     {
         "original": "setóriye",
         "target": "setóriye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "story/stories"
     },
     {
         "original": "sevelang",
         "target": "sevelang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "civilian(s)"
     },
     {
         "original": "shapu",
         "target": "shapu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hat(s)"
     },
     {
         "original": "shāsa",
         "target": "shāsa",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "(n.)",
+        "gloss": "chance(s), odds"
     },
     {
         "original": "sheláf",
         "target": "sheláf",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sleep"
     },
     {
         "original": "shelta",
         "target": "shelta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "shelter(s)"
     },
     {
         "original": "sheng",
         "target": "sheng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "truth"
     },
     {
         "original": "sherú",
         "target": "sherú",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "start(s), beginning(s)"
     },
     {
         "original": "shetexe",
         "target": "shetexe",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to stab"
     },
     {
         "original": "shetéxeting",
         "target": "shetéxeting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "knife/knives"
     },
     {
         "original": "shif",
         "target": "shif",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "shift(s) (work)"
     },
     {
         "original": "shio",
         "target": "shio",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "shio"
     },
     {
         "original": "shípemang",
         "target": "shípemang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "crew"
     },
     {
         "original": "showxa",
         "target": "showxa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to speak, to say, to tell"
     },
     {
         "original": "showxating",
         "target": "showxating",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "communication, communication system"
     },
     {
         "original": "shoyu",
         "target": "shoyu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "shoyu"
     },
     {
         "original": "shukumi",
         "target": "shukumi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fate, destiny"
     },
     {
         "original": "si",
         "target": "si",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to see"
     },
     {
         "original": "sif",
         "target": "sif",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "self"
     },
     {
         "original": "síkeseteng",
         "target": "síkeseteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "sixty"
     },
     {
         "original": "síkesexanya",
         "target": "síkesexanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "six-hundred"
     },
     {
         "original": "sikesh",
         "target": "sikesh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "six"
     },
     {
         "original": "sili",
         "target": "sili",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(conj.)",
+        "gloss": "if"
     },
     {
         "original": "sisang",
         "target": "sisang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "season(s)"
     },
     {
         "original": "sit",
         "target": "sit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to sit"
     },
     {
         "original": "so",
         "target": "so",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "so (intensifier)"
     },
     {
         "original": "sodzha",
         "target": "sodzha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "soldier(s)"
     },
     {
         "original": "solo",
         "target": "solo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "alone"
     },
     {
         "original": "sow",
         "target": "sow",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "so (intensifier)"
     },
     {
-        "original": "sówng",
+        "original": "sowng",
         "target": "sowng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sun(s)"
     },
     {
         "original": "sowngit",
         "target": "sowngit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "music"
     },
     {
         "original": "sownte",
         "target": "sownte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "sound(s)"
     },
     {
         "original": "soyá",
         "target": "soyá",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "yes, obviously"
     },
     {
         "original": "suchok",
         "target": "suchok",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "mess(es), problematic situation(s)"
     },
     {
         "original": "sukit",
         "target": "sukit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "circuit(s)"
     },
     {
         "original": "suku",
         "target": "suku",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "fruit/vegetable juice"
     },
     {
         "original": "sunte",
         "target": "sunte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "healthy"
     },
     {
         "original": "sut",
         "target": "sut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "suit(s)"
     },
     {
         "original": "ta",
         "target": "ta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(tns. mkr.)",
+        "gloss": "forms the past tense"
     },
     {
         "original": "tadisong",
         "target": "tadisong",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "traditional"
     },
     {
         "original": "taki",
         "target": "taki",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "Thanks. (informal)"
     },
     {
         "original": "takoyaki",
         "target": "takoyaki",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "takoyaki"
     },
     {
         "original": "tatuyingi",
         "target": "tatuyingi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "tattoo(s)"
     },
     {
         "original": "tékidok",
         "target": "tékidok",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "technical document(s), documentation(s)"
     },
     {
         "original": "tékimang",
         "target": "tékimang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "engineer(s)"
     },
     {
         "original": "tékiting",
         "target": "tékiting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "technology"
     },
     {
         "original": "tekiwa",
         "target": "tekiwa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "tequila"
     },
     {
         "original": "tempe",
         "target": "tempe",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "temperature(s)"
     },
     {
         "original": "teng",
         "target": "teng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "ten"
     },
     {
         "original": "tensha",
         "target": "tensha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "attention, caution"
     },
     {
         "original": "tenyanyiye",
         "target": "tenyanyiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "decade(s)"
     },
     {
         "original": "tenye",
         "target": "tenye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to have"
     },
     {
         "original": "terampa",
         "target": "terampa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "cheater(s)"
     },
     {
         "original": "terásh",
         "target": "terásh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "thrust"
     },
     {
         "original": "terásheting",
         "target": "terásheting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "engine(s)"
     },
     {
         "original": "teristi",
         "target": "teristi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "sad"
     },
     {
         "original": "tet",
         "target": "tet",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "tight, tense"
     },
     {
         "original": "tiki",
         "target": "tiki",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "tiki"
     },
     {
         "original": "tili",
         "target": "tili",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(asp. mkr.)",
+        "gloss": "forms habitual actions"
     },
     {
         "original": "tim",
         "target": "tim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "time(s)"
     },
     {
         "original": "ting",
         "target": "ting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "thing(s)"
     },
     {
         "original": "to",
         "target": "to",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "second-person singular (you/your)"
     },
     {
         "original": "tolowda",
         "target": "tolowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "second-person plural (y'all/your)"
     },
     {
         "original": "tomak",
         "target": "tomak",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "stomach(s)"
     },
     {
         "original": "towchu",
         "target": "towchu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "slave(s)"
     },
     {
         "original": "towseng",
         "target": "towseng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "thousand"
     },
     {
         "original": "towsh",
         "target": "towsh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "tooth/teeth"
     },
     {
         "original": "tubik",
         "target": "tubik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "very large, enormous"
     },
     {
         "original": "tudiye",
         "target": "tudiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "today"
     },
     {
         "original": "tufash",
         "target": "tufash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "very fast"
     },
     {
         "original": "túgufovedi",
         "target": "túgufovedi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "very good-looking, gorgeous"
     },
     {
         "original": "tugut",
         "target": "tugut",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "very good"
     },
     {
         "original": "tumal",
         "target": "tumal",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "very bad"
     },
     {
         "original": "tumali",
         "target": "tumali",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "very small"
     },
     {
         "original": "tumang",
         "target": "tumang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Earther"
     },
     {
         "original": "túngeting",
         "target": "túngeting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gun(s)"
     },
     {
         "original": "tuteng",
         "target": "tuteng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "twenty"
     },
     {
         "original": "tutim",
         "target": "tutim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(quant.)",
+        "gloss": "double (time)"
     },
     {
         "original": "túxanya",
         "target": "túxanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "two-hundred"
     },
     {
         "original": "ubicha",
         "target": "ubicha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bladeboy(s), killer(s)"
     },
     {
         "original": "ultim",
         "target": "ultim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "last, final"
     },
     {
         "original": "un",
         "target": "un",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(conj.)",
+        "gloss": "and (poetic)"
     },
     {
         "original": "unte",
         "target": "unte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(conj.)",
+        "gloss": "and"
     },
     {
         "original": "úzilik",
         "target": "úzilik",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "link(s)"
     },
     {
         "original": "vedi",
         "target": "vedi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to see"
     },
     {
         "original": "véditing",
         "target": "véditing",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "monitor(s), screen(s)"
     },
     {
         "original": "veshang",
         "target": "veshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "version(s)"
     },
     {
         "original": "vídiyo",
         "target": "vídiyo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "video(s)"
     },
     {
         "original": "voka",
         "target": "voka",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "vodka"
     },
     {
         "original": "volkang",
         "target": "volkang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "volcano(es)"
     },
     {
         "original": "vota",
         "target": "vota",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to vote"
     },
     {
         "original": "voyu",
         "target": "voyu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "thug(s), bad guy(s)"
     },
     {
         "original": "wa",
         "target": "wa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(indf. art.)",
+        "gloss": "a, an"
     },
     {
         "original": "wageng",
         "target": "wageng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "again"
     },
     {
         "original": "walowda",
         "target": "walowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(quant.)",
+        "gloss": "some"
     },
     {
         "original": "wamali",
         "target": "wamali",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(quant.)",
+        "gloss": "a little"
     },
     {
         "original": "wamang",
         "target": "wamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(pro.)",
+        "gloss": "someone"
     },
     {
         "original": "wameku",
         "target": "wameku",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to scream, to yell, to cry"
     },
     {
         "original": "wámotim",
         "target": "wámotim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "again, once more"
     },
     {
         "original": "wang",
         "target": "wang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "one"
     },
     {
         "original": "wango",
         "target": "wango",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "right back (idiomatic)"
     },
     {
         "original": "wangu",
         "target": "wangu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "toy(s)"
     },
     {
         "original": "wanya",
         "target": "wanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to want"
     },
     {
         "original": "wash",
         "target": "wash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to wash"
     },
     {
         "original": "watim",
         "target": "watim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "sometime, sometimes"
     },
     {
         "original": "we",
         "target": "we",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "way(s), path(s)"
     },
     {
         "original": "wedzha",
         "target": "wedzha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "wager(s), bet(s)"
     },
     {
         "original": "wel",
         "target": "wel",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "gravity well(s), a planet's gravity"
     },
     {
         "original": "welte",
         "target": "welte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "welding"
     },
     {
         "original": "weltewala",
         "target": "weltewala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "welder(s)"
     },
     {
         "original": "welwala",
         "target": "welwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "Inner-lover(s) (pejorative)"
     },
     {
         "original": "wépera",
         "target": "wépera",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "Wait!"
     },
     {
         "original": "weting",
         "target": "weting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "type(s), category/categories"
     },
     {
         "original": "weyu",
         "target": "weyu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "the well, planet's gravity"
     },
     {
         "original": "wíseki",
         "target": "wíseki",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "whiskey"
     },
     {
         "original": "wit",
         "target": "wit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(prep.)",
+        "gloss": "with"
     },
     {
         "original": "wok",
         "target": "wok",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "step(s)"
     },
     {
         "original": "wow",
         "target": "wow",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "war(s)"
     },
     {
         "original": "wowk",
         "target": "wowk",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "work"
     },
     {
         "original": "wowl",
         "target": "wowl",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "wall(s)"
     },
     {
         "original": "wowm",
         "target": "wowm",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "warm"
     },
     {
         "original": "wowmow",
         "target": "wowmow",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "wormhole(s)"
     },
     {
         "original": "wowo",
         "target": "wowo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "Whoa! (exclamation)"
     },
     {
         "original": "wowt",
         "target": "wowt",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "word(s)"
     },
     {
         "original": "wupo",
         "target": "wupo",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "witch(es), sorceress(es) (pejorative)"
     },
     {
         "original": "xalte",
         "target": "xalte",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to hold, to stay, to keep"
     },
     {
         "original": "xáltewe",
         "target": "xáltewe",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "status(es)"
     },
     {
         "original": "xante",
         "target": "xante",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hand(s), arm(s)"
     },
     {
         "original": "xantedura",
         "target": "xantedura",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "weapon(s), arms"
     },
     {
         "original": "xanya",
         "target": "xanya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(num.)",
+        "gloss": "hundred, one hundred"
     },
     {
         "original": "xanyanyiye",
         "target": "xanyanyiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "century/centuries"
     },
     {
         "original": "xash",
         "target": "xash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hazard(s), danger(s)"
     },
     {
         "original": "xash",
         "target": "xash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "marijuana"
     },
     {
         "original": "xáshimang",
         "target": "xáshimang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "stoner(s)"
     },
     {
         "original": "xashish",
         "target": "xashish",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "marijuana"
     },
     {
         "original": "xashiting",
         "target": "xashiting",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "marijuana joint(s)"
     },
     {
         "original": "xashiwala",
         "target": "xashiwala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "marijuana dealer(s)"
     },
     {
         "original": "xelep",
         "target": "xelep",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(int.)",
+        "gloss": "mild expletive, like \"hell\""
     },
     {
         "original": "xelep",
         "target": "xelep",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "bread"
     },
     {
         "original": "xélixup",
         "target": "xélixup",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "awesome"
     },
     {
         "original": "xep",
         "target": "xep",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "help, aid"
     },
     {
         "original": "xeta",
         "target": "xeta",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hate, hatred"
     },
     {
         "original": "xétamang",
         "target": "xétamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hater(s)"
     },
     {
         "original": "xi",
         "target": "xi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(det.)",
+        "gloss": "this, here"
     },
     {
         "original": "xídawang",
         "target": "xídawang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "this, this one"
     },
     {
         "original": "xilowda",
         "target": "xilowda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(rel.)",
+        "gloss": "this many, this much"
     },
     {
         "original": "xite",
         "target": "xite",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hit(s), strike(s)"
     },
     {
         "original": "xitim",
         "target": "xitim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "now, this time"
     },
     {
         "original": "xiya",
         "target": "xiya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "here"
     },
     {
         "original": "xom",
         "target": "xom",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "home(s)"
     },
     {
         "original": "xop",
         "target": "xop",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "hope(s)"
     },
     {
         "original": "xow",
         "target": "xow",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "vomit, puke, barf"
     },
     {
         "original": "xowmonyiye",
         "target": "xowmonyiye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "harmony/harmonies"
     },
     {
         "original": "xownyat",
         "target": "xownyat",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "treachery"
     },
     {
         "original": "xox",
         "target": "xox",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "up, high"
     },
     {
         "original": "xunyam",
         "target": "xunyam",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(vb.)",
+        "gloss": "to learn, to study"
     },
     {
         "original": "xúnyampelesh",
         "target": "xúnyampelesh",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "school(s)"
     },
     {
         "original": "xush",
         "target": "xush",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "happy"
     },
     {
         "original": "ya",
         "target": "ya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "yes"
     },
     {
         "original": "yáterash",
         "target": "yáterash",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "with acceleration gravity, under engine thrust"
     },
     {
         "original": "yawu",
         "target": "yawu",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "yaw (horizontal angle, in navigation)"
     },
     {
         "original": "ye",
         "target": "ye",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adv.)",
+        "gloss": "still, yet"
     },
     {
         "original": "yitim",
         "target": "yitim",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "new year"
     },
     {
         "original": "zákomang",
         "target": "zákomang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "police officer(s)"
     },
     {
         "original": "zakong",
         "target": "zakong",
-        "canTarget": true
-    },
-    {
-        "original": "",
-        "target": "",
-        "canTarget": true
-    },
-    {
-        "original": "",
-        "target": "",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "law(s)"
     },
     {
         "original": "ademeshang",
         "target": "ademeshang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "admission"
     },
     {
         "original": "ankawala",
         "target": "ankawala",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "anchor-partner"
     },
     {
         "original": "asente",
         "target": "asente",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "accent"
     },
     {
         "original": "bekang",
         "target": "bekang",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "calibet",
         "target": "calibet",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "chi",
         "target": "chi",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "dago",
         "target": "dago",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "dansa",
         "target": "dansa",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "dance"
     },
     {
         "original": "danyo",
         "target": "danyo",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "defotung",
         "target": "defotung",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "envoya",
         "target": "envoya",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "fátiko",
         "target": "fátiko",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "gach",
         "target": "gach",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "geríng",
         "target": "geríng",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "green"
     },
     {
         "original": "goda",
         "target": "goda",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "fat"
     },
     {
         "original": "ide",
         "target": "ide",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "ID"
     },
     {
         "original": "impaka",
         "target": "impaka",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "kanta",
         "target": "kanta",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "konto",
         "target": "konto",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "langefa",
         "target": "langefa",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "lap",
         "target": "lap",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "lava",
         "target": "lava",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "lida",
         "target": "lida",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "lokeshang",
         "target": "lokeshang",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "mech",
         "target": "mech",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "nanet",
         "target": "nanet",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "notisamang",
         "target": "notisamang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "reporter(s)"
     },
     {
         "original": "nudi",
         "target": "nudi",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "nude(s)"
     },
     {
         "original": "pansetara",
         "target": "pansetara",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "panya",
         "target": "panya",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "peresha",
         "target": "peresha",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "perive",
         "target": "perive",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "pet",
         "target": "pet",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "rameng",
         "target": "rameng",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "renta",
         "target": "renta",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "sekuri",
         "target": "sekuri",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "security"
     },
     {
         "original": "selo",
         "target": "selo",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "shenyon",
         "target": "shenyon",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "lucky"
     },
     {
         "original": "shípewe",
         "target": "shípewe",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "show",
         "target": "show",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "sika",
         "target": "sika",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "sonya",
         "target": "sonya",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "zone(s)"
     },
     {
         "original": "telekopo",
         "target": "telekopo",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "terpodna",
         "target": "terpodna",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "",
+        "gloss": ""
     },
     {
         "original": "valit",
         "target": "valit",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(adj.)",
+        "gloss": "valid"
     },
     {
         "original": "verifikashang",
         "target": "verifikashang",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "verification"
     },
     {
         "original": "wowmang",
         "target": "wowmang",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "(n.)",
+        "gloss": "soldier(s)"
     },
     {
         "original": "xantesiga",
         "target": "xantesiga",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "(n.)",
+        "gloss": "hand-signal(s)"
     },
     {
         "original": "xase",
         "target": "xase",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "(n.)",
+        "gloss": "hate"
     },
     {
         "original": "xomexownya",
         "target": "xomexownya",
-        "canTarget": false
+        "canTarget": false,
+        "partOfSpeech": "(n.)",
+        "gloss": "home"
     },
     {
         "original": "xudzha",
         "target": "xudzha",
-        "canTarget": true
+        "canTarget": true,
+        "partOfSpeech": "(n.)",
+        "gloss": "permit(s) "
+    },
+    {
+        "original": "afong",
+        "target": "",
+        "canTarget": true,
+        "partOfSpeech": "",
+        "gloss": ""
     }
 ]

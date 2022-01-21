@@ -8,7 +8,9 @@ const json = result.map(row => {
     return {
         original: row[0],
         target: row[1],
-        canTarget: row[10] !== "DICTIONARY ONLY"
+        canTarget: row[10] !== "DICTIONARY ONLY",
+        partOfSpeech: row[2],
+        gloss: row[7] || row[6] || row[4]
     };
 });
 

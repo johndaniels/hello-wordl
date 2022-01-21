@@ -44,7 +44,7 @@ function App() {
   return (
     <div className="App-container">
       <h1>Wowtle</h1>
-      <h2>Wowtle? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>
+      <h2>Wowtel? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>
       <div className="top-right">
         {page !== "game" ? (
           <a
@@ -82,7 +82,7 @@ function App() {
             ? "?seed=" + getRandomSeed()
             : "?"}
         >
-          {isToday ? "Random" : "Fo Tudiye"}
+          {isToday ? "Random Game" : "Fo Tudiye"}
         </a>
       </div>
       {page === "about" && <About />}

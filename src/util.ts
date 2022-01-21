@@ -9,6 +9,8 @@ export interface DictionaryEntry {
   original: string,
   target: string,
   canTarget: boolean,
+  gloss: string,
+  partOfSpeech: string,
 };
 
 function mulberry32(a: number) {

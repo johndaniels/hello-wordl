@@ -43,6 +43,17 @@ function replaceDiacritics(s: string)
     return s;
 }
 
+function mailtoLink(guess: string) {
+  const subject = encodeURIComponent("Lang Belta Wordle Suggestion");
+  const body = encodeURIComponent(`Oye, kopeng!
+
+Here is a suggestion for the Wowtle Dictionary: ${guess}.
+
+Taki taki!`);
+
+  return `mailto:reachesout@gmail.com?subject=${subject}&body=${body}`;
+}
+
 const targets = dictionary.filter(entry => entry.canTarget);
 const dictionaryLookup = dictionary.map(entry => replaceDiacritics(entry.target));
 
@@ -67,6 +78,7 @@ function Game(props: GameProps) {
   const [gameState, setGameState] = useState(GameState.Playing);
   const [guesses, setGuesses] = useState<string[]>([]);
   const [date, setDate] = useState<string>(urlDate)
+  const [invalidWord, setInvalidWord] = useState<boolean>(false);
   const [seed, setSeed] = useState<string | null>(getSeed())
   const [currentGuess, setCurrentGuess] = useState<string>("");
   const [hint, setHint] = useState<string>("");
@@ -90,8 +102,8 @@ function Game(props: GameProps) {
   };
 
   const onKey = (key: string) => {
-    if (gameState !== GameState.Playing) {
-      if (key === "Enter") {
+    if (gameState !== GameState.Playing ) {
+      if (seed && key === "Enter") {
         startNextGame();
       }
       return;
@@ -107,12 +119,14 @@ function Game(props: GameProps) {
       setCurrentGuess((guess) => guess.slice(0, -1));
       setHint("");
     } else if (key === "Enter") {
+      setInvalidWord(false);
       if (currentGuess.length !== wordLength) {
         setHint("Too short");
         return;
       }
       if (!dictionaryLookup.includes(currentGuess)) {
-        setHint("Not a valid word");
+        setInvalidWord(true);
+        setHint("");
         return;
       }
       if (props.hard) {
@@ -127,14 +141,11 @@ function Game(props: GameProps) {
       setGuesses((guesses) => guesses.concat([currentGuess]));
       setCurrentGuess((guess) => "");
 
-      const gameOver = (verbed: string) =>
-        `You ${verbed}! The answer was ${target.original.toUpperCase()}. (”Enter” fo wa dzhógem nuva)`;
-
       if (currentGuess === normalizedTarget) {
-        setHint(gameOver("won"));
+        setHint("");
         setGameState(GameState.Won);
       } else if (guesses.length + 1 === props.maxGuesses) {
-        setHint(gameOver("lost"));
+        setHint("");
         setGameState(GameState.Lost);
       } else {
         setHint("");
@@ -192,7 +203,15 @@ function Game(props: GameProps) {
 
   return (
     <div className="Game" style={{ display: props.hidden ? "none" : "block" }}>
+       {seed ? <div className="Game-seed-info">
+            Random Game with Seed {seed}
+          </div> : 
+          <div className="Game-seed-info">
+            Dzhogem fo Tudiye: {getDateStringFromUrlParam(date)}
+          </div> 
+          }
       <div className="Game-options">
+       
         
         {seed && <div>
           <label htmlFor="wordLength">Letters:</label>
@@ -228,24 +247,18 @@ function Game(props: GameProps) {
       >
         <tbody>{tableRows}</tbody>
       </table>
-      <button
-          style={{ flex: "0 0 auto" }}
-          disabled={gameState !== GameState.Playing || guesses.length === 0}
-          onClick={() => {
-            setHint(
-              `The answer was ${target.original.toUpperCase()}. (Enter to play again)`
-            );
-            setGameState(GameState.Lost);
-            (document.activeElement as HTMLElement)?.blur();
-          }}
-        >
-          Give up
-        </button>
       <p
+        className="hint"
         role="alert"
         style={{ userSelect: /http:/.test(hint) ? "text" : "none" }}
       >
-        {hint || `\u00a0`}
+        {hint}
+        {gameState !== GameState.Playing && (<div>
+          {GameState.Won ? "To ta ganya! You won!" : "To ta du losh. You lost."} <br/>
+          The answer was <span className="definition">{target.original}</span>, which means <span className="definition">{target.gloss}</span>.
+          {!!seed && <div>”Enter” fo wa dzhogem nuva. / ”Enter” for a new game.</div>}
+        </div>)}
+        {invalidWord && <div>Not in this dictionary <a href={mailtoLink(currentGuess)}>Suggest it?</a></div>}
       </p>
       <Keyboard letterInfo={letterInfo} onKey={onKey} />
       {gameState !== GameState.Playing && (
@@ -271,13 +284,6 @@ function Game(props: GameProps) {
           </button>
         </p>
       )}
-      {seed ? <div className="Game-seed-info">
-          Random Game with seed {seed}, length {wordLength}
-        </div> : 
-        <div className="Game-seed-info">
-          Game for {getDateStringFromUrlParam(date)}
-        </div> 
-        }
         
     </div>
   );
