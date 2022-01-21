@@ -55,11 +55,11 @@ body {
 
 .App-container {
   position: relative;
-  max-width: 500px;
+  max-width: 600px;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  justify-content: center;
+  min-height: 100vh;
 }
 
 .App-container h1 {
@@ -76,8 +76,8 @@ body {
 }
 
 .App-container footer {
-  position: fixed;
-  bottom: 1em;
+  margin-top: auto;
+  height: 50px;
 }
 
 .Game,

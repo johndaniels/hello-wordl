@@ -44,17 +44,16 @@ function App() {
   return (
     <div className="App-container">
       <h1>Wowtle</h1>
-      <h2>Wowtel? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>
+      {page != "about" && <h2>Wowtel? Wówtewu? Whatever, it's Lang Belta Wordle!</h2>}
       <div className="top-right">
         {page !== "game" ? (
           <a
-            className="emoji-link"
             href="#"
             onClick={() => setPage("game")}
             title="Close"
             aria-label="Close"
           >
-            ❌
+            Close
           </a>
         ) : (
           <>
@@ -109,6 +108,9 @@ function App() {
         </div>
       )}
       <Game maxGuesses={maxGuesses} hidden={page !== "game"} hard={hard} />
+      <footer>
+        <div>Made with ♡ by <a href="https://twitter.com/ItReachesOut">a Lang Belta learner</a>, for the study and exploration of Lang Belta.</div>
+    </footer>
     </div>
   );
 }
