@@ -36,7 +36,7 @@ export function computeShareText(guesses: string[], target: string, date: string
     const url = getUrl(date, seed, length);
     const rows = getRows(guesses, target);
     if (seed) {
-        return `My random ${length}-Letter Game: ${guesses.length}/6
+        return `My Random ${length}-Letter Game: ${guesses.length}/6
 
 ${rows}
 

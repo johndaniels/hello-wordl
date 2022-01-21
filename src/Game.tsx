@@ -258,7 +258,7 @@ function Game(props: GameProps) {
           The answer was <span className="definition">{target.original}</span>, which means <span className="definition">{target.gloss}</span>.
           {!!seed && <div>”Enter” fo wa dzhogem nuva. / ”Enter” for a new game.</div>}
         </div>)}
-        {invalidWord && <div>Not in this dictionary <a href={mailtoLink(currentGuess)}>Suggest it?</a></div>}
+        {invalidWord && <div>Not in this dictionary. <a href={mailtoLink(currentGuess)}>Suggest it?</a></div>}
       </p>
       <Keyboard letterInfo={letterInfo} onKey={onKey} />
       {gameState !== GameState.Playing && (
