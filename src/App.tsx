@@ -59,22 +59,12 @@ function App() {
         ) : (
           <>
             <a
-              className="emoji-link"
               href="#"
               onClick={() => setPage("about")}
               title="About"
               aria-label="About"
             >
-              ❓
-            </a>
-            <a
-              className="emoji-link"
-              href="#"
-              onClick={() => setPage("settings")}
-              title="Settings"
-              aria-label="Settings"
-            >
-              ⚙️
+              About
             </a>
           </>
         )}
@@ -83,7 +73,7 @@ function App() {
         style={{
           position: "absolute",
           left: 5,
-          top: 5,
+          top: 15,
           visibility: page === "game" ? "visible" : "hidden",
         }}
       >

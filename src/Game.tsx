@@ -38,18 +38,6 @@ function getDateStringFromUrlParam(dateParam:string) {
   return dayjs(dateParam, "YYYYMMDD").format("LL");
 }
 
-let initChallenge = "";
-let challengeError = false;
-try {
-  initChallenge = decode(urlParam("challenge") ?? "").toLowerCase();
-} catch (e) {
-  console.warn(e);
-  challengeError = true;
-}
-if (initChallenge && !dictionarySet.has(initChallenge)) {
-  initChallenge = "";
-  challengeError = true;
-}
 
 function setHistoryState(date: string, seed: string | null, length: number) {
   const queryString = (seed ? "?seed=" + seed : "?date=" + date) + "&length=" + length;
@@ -62,11 +50,7 @@ function Game(props: GameProps) {
   const [date, setDate] = useState<string>(urlDate)
   const [seed, setSeed] = useState<string | null>(getSeed())
   const [currentGuess, setCurrentGuess] = useState<string>("");
-  const [hint, setHint] = useState<string>(
-    challengeError
-      ? `Invalid challenge string, playing random game.`
-      : `Make your first guess!`
-  );
+  const [hint, setHint] = useState<string>("");
   const [wordLength, setWordLength] = useState(
     urlLength
   );
@@ -189,29 +173,42 @@ function Game(props: GameProps) {
   return (
     <div className="Game" style={{ display: props.hidden ? "none" : "block" }}>
       <div className="Game-options">
-        <label htmlFor="wordLength">Letters:</label>
-        <input
-          type="range"
-          min="4"
-          max="8"
-          id="wordLength"
-          disabled={
-            gameState === GameState.Playing &&
-            (guesses.length > 0 || currentGuess !== "")
-          }
-          value={wordLength}
-          onChange={(e) => {
-            const length = Number(e.target.value);
-            setHistoryState(date, seed, length);
-            setGameState(GameState.Playing);
-            setGuesses([]);
-            setCurrentGuess("");
-            setTarget(randomTarget(length, seed || date));
-            setWordLength(length);
-            setHint(`${length} letters`);
-          }}
-        ></input>
-        <button
+        
+        {seed && <div>
+          <label htmlFor="wordLength">Letters:</label>
+          <input
+            type="range"
+            min="4"
+            max="8"
+            id="wordLength"
+            disabled={
+              gameState === GameState.Playing &&
+              (guesses.length > 0 || currentGuess !== "")
+            }
+            value={wordLength}
+            onChange={(e) => {
+              const length = Number(e.target.value);
+              setHistoryState(date, seed, length);
+              setGameState(GameState.Playing);
+              setGuesses([]);
+              setCurrentGuess("");
+              setTarget(randomTarget(length, seed || date));
+              setWordLength(length);
+              setHint(`${length} letters`);
+            }}
+          >
+          </input>
+        </div>}
+      </div>
+      <table
+        className="Game-rows"
+        tabIndex={0}
+        aria-label="Table of guesses"
+        ref={tableRef}
+      >
+        <tbody>{tableRows}</tbody>
+      </table>
+      <button
           style={{ flex: "0 0 auto" }}
           disabled={gameState !== GameState.Playing || guesses.length === 0}
           onClick={() => {
@@ -224,15 +221,6 @@ function Game(props: GameProps) {
         >
           Give up
         </button>
-      </div>
-      <table
-        className="Game-rows"
-        tabIndex={0}
-        aria-label="Table of guesses"
-        ref={tableRef}
-      >
-        <tbody>{tableRows}</tbody>
-      </table>
       <p
         role="alert"
         style={{ userSelect: /http:/.test(hint) ? "text" : "none" }}
