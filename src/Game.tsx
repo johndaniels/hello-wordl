@@ -253,8 +253,8 @@ function Game(props: GameProps) {
         style={{ userSelect: /http:/.test(hint) ? "text" : "none" }}
       >
         {hint}
-        {gameState !== GameState.Playing && (<div>
-          {GameState.Won ? "To ta ganya! You won!" : "To ta du losh. You lost."} <br/>
+        {gameState !== GameState.Playing && !hint && (<div>
+          {gameState === GameState.Won ? "To ta ganya! You won!" : "To ta du losh. You lost."} <br/>
           The answer was <span className="definition">{target.original}</span>, which means <span className="definition">{target.gloss}</span>.
           {!!seed && <div>”Enter” fo wa dzhogem nuva. / ”Enter” for a new game.</div>}
         </div>)}
