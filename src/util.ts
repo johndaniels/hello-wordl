@@ -1,4 +1,3 @@
-import dictionary from "./dictionary.json";
 import dayjs from 'dayjs'
 import utc from 'dayjs/plugin/utc';
 
@@ -6,7 +5,11 @@ dayjs.extend(utc);
 
 export const maxGuesses = 6;
 
-export const dictionarySet: Set<string> = new Set(dictionary);
+export interface DictionaryEntry {
+  original: string,
+  target: string,
+  canTarget: boolean,
+};
 
 function mulberry32(a: number) {
   return function () {

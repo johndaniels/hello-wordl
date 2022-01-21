@@ -1,608 +1,3287 @@
 [
-  "gut",
-  "kosh",
-  "mali",
-  "moshisolo",
-  "pikante",
-  "leyal",
-  "tumali",
-  "pura",
-  "tadisong",
-  "tet",
-  "naterash",
-  "bik",
-  "dura",
-  "fash",
-  "gerowsh",
-  "gosh",
-  "gufovedi",
-  "idzhi",
-  "idzhifobek",
-  "keredu",
-  "mogut",
-  "momal",
-  "nuva",
-  "owlesi",
-  "owte",
-  "pagal",
-  "paxo",
-  "richa",
-  "semowt",
-  "tubik",
-  "tufash",
-  "tugufovedi",
-  "tugut",
-  "tumal",
-  "bekedabush",
-  "belta",
-  "det",
-  "eletik",
-  "eletisi",
-  "felota",
-  "feri",
-  "gutegow",
-  "legawu",
-  "lek",
-  "mal",
-  "nadzhush",
-  "nakangego",
-  "nasunte",
-  "sefesowng",
-  "sunte",
-  "teristi",
-  "xox",
-  "xush",
-  "yaterash",
-  "belang",
-  "belek",
-  "belu",
-  "eka",
-  "etera",
-  "foriya",
-  "gotefodam",
-  "kong",
-  "lush",
-  "nakangikeng",
-  "nalush",
-  "natet",
-  "ofisha",
-  "ong",
-  "ret",
-  "solo",
-  "ultim",
-  "wowm",
-  "xelixup",
-  "dusi",
-  "lok",
-  "nalok",
-  "so",
-  "kowltim",
-  "wageng",
-  "ya",
-  "xiya",
-  "fodagut",
-  "lenta",
-  "mo",
-  "na",
-  "nago",
-  "pashang",
-  "wango",
-  "xitim",
-  "bek",
-  "de",
-  "dedeya",
-  "deng",
-  "deya",
-  "efa",
-  "ematim",
-  "fode",
-  "fongi",
-  "fore",
-  "kasi",
-  "kuku",
-  "lowng",
-  "mosh",
-  "natim",
-  "oso",
-  "sow",
-  "wamotim",
-  "watim",
-  "ye",
-  "finyish",
-  "ando",
-  "tili",
-  "amash",
-  "o",
-  "pash",
-  "sili",
-  "un",
-  "unte",
-  "da",
-  "xi",
-  "bera",
-  "wa",
-  "oye",
-  "oyedeng",
-  "pashang",
-  "soya",
-  "taki",
-  "wepera",
-  "wowo",
-  "ko",
-  "oxo",
-  "xelep",
-  "mebi",
-  "fosho",
-  "mowsh",
-  "suchok",
-  "pish",
-  "sisang",
-  "ubicha",
-  "weyu",
-  "amawala",
-  "losh",
-  "fash",
-  "kopush",
-  "kontow",
-  "kondenashang",
-  "sedneshang",
-  "kosh",
-  "beveting",
-  "enyedzhi",
-  "lowkedong",
-  "menyu",
-  "sekoch",
-  "shif",
-  "tekiwa",
-  "voka",
-  "wiseki",
-  "afeta",
-  "aseroka",
-  "bitnesh",
-  "biya",
-  "botong",
-  "edamame",
-  "erete",
-  "feronte",
-  "fotet",
-  "gash",
-  "gatamang",
-  "godzha",
-  "impake",
-  "kamera",
-  "kimechi",
-  "kula",
-  "miso",
-  "onyigiri",
-  "pashangimang",
-  "peshi",
-  "sake",
-  "sevelang",
-  "shio",
-  "shoyu",
-  "takoyaki",
-  "serip",
-  "setara",
-  "tekiting",
-  "sekang",
-  "mesa",
-  "paxari",
-  "sut",
-  "raya",
-  "rat",
-  "chek",
-  "dzhogem",
-  "fit",
-  "gutemang",
-  "kasinyo",
-  "mesach",
-  "meshang",
-  "mowteng",
-  "pegunta",
-  "peyeting",
-  "retnet",
-  "risiko",
-  "salta",
-  "saviting",
-  "sekerip",
-  "sempere",
-  "senyawu",
-  "senyidiye",
-  "shelaf",
-  "ting",
-  "uzilik",
-  "vediting",
-  "vidiyo",
-  "wowt",
-  "xashimang",
-  "xashiwala",
-  "xop",
-  "anyiye",
-  "bekpelesh",
-  "belowt",
-  "belta",
-  "beratna",
-  "beref",
-  "bingi",
-  "biya",
-  "bodzha",
-  "bosmang",
-  "burito",
-  "buza",
-  "chesh",
-  "dek",
-  "dokiwala",
-  "dusiwala",
-  "duting",
-  "dzhemang",
-  "dzhi",
-  "dzhing",
-  "dzhush",
-  "entediye",
-  "epinya",
-  "erosh",
-  "ereluf",
-  "feradiye",
-  "fibafare",
-  "fotowala",
-  "fut",
-  "gova",
-  "govawala",
-  "inteng",
-  "inya",
-  "kaka",
-  "kapawu",
-  "kekoku",
-  "komante",
-  "kombat",
-  "kopeng",
-  "kori",
-  "koyo",
-  "kuwang",
-  "kuxaku",
-  "lang",
-  "langemang",
-  "lunye",
-  "malimang",
-  "maliwala",
-  "mang",
-  "manting",
-  "matna",
-  "mediwala",
-  "mundiye",
-  "nada",
-  "nafut",
-  "navigeshang",
-  "nem",
-  "okwakakawala",
-  "operashang",
-  "owala",
-  "owbit",
-  "owkwa",
-  "oxo",
-  "paxoniseki",
-  "pelesh",
-  "peng",
-  "pesha",
-  "pexa",
-  "pilota",
-  "pirata",
-  "pomang",
-  "redeshang",
-  "rowm",
-  "rowmwala",
-  "ruchirownya",
-  "ruserux",
-  "sabaka",
-  "sabakawala",
-  "sabat",
-  "sako",
-  "sefeti",
-  "seleshang",
-  "seping",
-  "sesata",
-  "seteshang",
-  "sheru",
-  "shetexeting",
-  "showxating",
-  "sodzha",
-  "sowngit",
-  "suku",
-  "sundiye",
-  "tatuyingi",
-  "tekimang",
-  "tensha",
-  "terash",
-  "terasheting",
-  "tisidiye",
-  "tomak",
-  "towsh",
-  "tumang",
-  "tungeting",
-  "tusidiye",
-  "voyu",
-  "we",
-  "wel",
-  "weltewala",
-  "welwala",
-  "wowk",
-  "xaltewe",
-  "xante",
-  "xantedura",
-  "xash",
-  "xep",
-  "xeta",
-  "xite",
-  "xom",
-  "xow",
-  "yitim",
-  "zakomang",
-  "zakong",
-  "adewu",
-  "amolof",
-  "ansa",
-  "anyalasi",
-  "anyalisi",
-  "anyimal",
-  "apapish",
-  "bap",
-  "baseng",
-  "beltawala",
-  "bikang",
-  "botiya",
-  "bowl",
-  "buk",
-  "bukipelesh",
-  "buro",
-  "bush",
-  "but",
-  "data",
-  "depeshang",
-  "deva",
-  "diye",
-  "do",
-  "dok",
-  "dowta",
-  "duting",
-  "episot",
-  "eropa",
-  "feriting",
-  "fewa",
-  "fibi",
-  "fidesh",
-  "foto",
-  "gang",
-  "ganyamang",
-  "gelori",
-  "giviwala",
-  "got",
-  "iapetus",
-  "imbobo",
-  "ipulangi",
-  "kaxa",
-  "koma",
-  "kometing",
-  "koming",
-  "kopa",
-  "leyalting",
-  "liperi",
-  "livit",
-  "liviting",
-  "lusamang",
-  "ma",
-  "mama",
-  "mamamang",
-  "mash",
-  "materi",
-  "matnawala",
-  "melodiye",
-  "metexeng",
-  "meyo",
-  "minyi",
-  "misong",
-  "mung",
-  "nasheng",
-  "nating",
-  "nax",
-  "not",
-  "obi",
-  "ora",
-  "palash",
-  "pampa",
-  "papeka",
-  "pash",
-  "pashangimang",
-  "pashangwala",
-  "pati",
-  "paxopigi",
-  "perepish",
-  "pish",
-  "pish",
-  "po",
-  "polisi",
-  "push",
-  "radzhang",
-  "redzherosh",
-  "redzhulta",
-  "ritem",
-  "rowu",
-  "sakopinya",
-  "sekang",
-  "ses",
-  "seterax",
-  "setoriye",
-  "shapu",
-  "shasa",
-  "shelta",
-  "sheng",
-  "shukumi",
-  "sirish",
-  "sowng",
-  "sownte",
-  "sukit",
-  "tekidok",
-  "tempe",
-  "tenyanyiye",
-  "terampa",
-  "tiki",
-  "tim",
-  "towchu",
-  "tudiye",
-  "veshang",
-  "volkang",
-  "wangu",
-  "wedzha",
-  "welte",
-  "weting",
-  "wok",
-  "wow",
-  "wowl",
-  "wowmow",
-  "wupo",
-  "xanyanyiye",
-  "xash",
-  "xashish",
-  "xashiting",
-  "xelep",
-  "xetamang",
-  "xowmonyiye",
-  "xownyat",
-  "xunyampelesh",
-  "yawu",
-  "et",
-  "eteteng",
-  "etexanya",
-  "faf",
-  "fafexanya",
-  "faveteng",
-  "fu",
-  "futeng",
-  "fuxanya",
-  "nang",
-  "nangeteng",
-  "nangexanya",
-  "seng",
-  "sengeteng",
-  "sengexanya",
-  "seri",
-  "seriteng",
-  "seritenyidiye",
-  "serixanya",
-  "sikeseteng",
-  "sikesexanya",
-  "sikesh",
-  "teng",
-  "towseng",
-  "tuteng",
-  "tuxanya",
-  "wang",
-  "xanya",
-  "fosh",
-  "lik",
-  "asilik",
-  "ere",
-  "erefo",
-  "fing",
-  "fo",
-  "fong",
-  "nalik",
-  "nawit",
-  "wit",
-  "sif",
-  "beltalowda",
-  "im",
-  "imalowda",
-  "imim",
-  "inyalowda",
-  "kowmang",
-  "mi",
-  "milowda",
-  "namang",
-  "to",
-  "tolowda",
-  "kowlting",
-  "kowpelesh",
-  "wamang",
-  "ke",
-  "kena",
-  "keya",
-  "kedawang",
-  "kelowda",
-  "kemang",
-  "kepelesh",
-  "keradzhang",
-  "ketim",
-  "keting",
-  "kewe",
-  "keweting",
-  "walowda",
-  "wamali",
-  "kowl",
-  "tutim",
-  "xidawang",
-  "xilowda",
-  "dedawang",
-  "delowda",
-  "demang",
-  "depelesh",
-  "deradzhang",
-  "detim",
-  "deting",
-  "dewe",
-  "gonya",
-  "ta",
-  "pensa",
-  "si",
-  "kush",
-  "sem",
-  "le",
-  "kang",
-  "kom",
-  "lit",
-  "openg",
-  "sasa",
-  "sefoka",
-  "tenye",
-  "vedi",
-  "wameku",
-  "bek",
-  "beve",
-  "dansa",
-  "decho",
-  "desh",
-  "et",
-  "go",
-  "lansh",
-  "pashang",
-  "pochuye",
-  "sera",
-  "setop",
-  "shetexe",
-  "showxa",
-  "wanya",
-  "xunyam",
-  "avita",
-  "bang",
-  "bi",
-  "chu",
-  "du",
-  "ekepesh",
-  "ganya",
-  "ge",
-  "gif",
-  "kapa",
-  "keng",
-  "leta",
-  "leva",
-  "lusa",
-  "peroba",
-  "rembera",
-  "sit",
-  "vota",
-  "wash",
-  "xalte",
-  "riyaka",
-  "revelushang",
-  "shipemang",
-  "momenta"
+    {
+        "original": "adewu",
+        "target": "adewu",
+        "canTarget": true
+    },
+    {
+        "original": "afeta",
+        "target": "afeta",
+        "canTarget": true
+    },
+    {
+        "original": "amash",
+        "target": "amash",
+        "canTarget": true
+    },
+    {
+        "original": "ámawala",
+        "target": "ámawala",
+        "canTarget": true
+    },
+    {
+        "original": "ámolof",
+        "target": "ámolof",
+        "canTarget": true
+    },
+    {
+        "original": "ando",
+        "target": "ando",
+        "canTarget": true
+    },
+    {
+        "original": "ansa",
+        "target": "ansa",
+        "canTarget": true
+    },
+    {
+        "original": "anyalasi",
+        "target": "anyalasi",
+        "canTarget": true
+    },
+    {
+        "original": "anyalisi",
+        "target": "anyalisi",
+        "canTarget": true
+    },
+    {
+        "original": "ányimal",
+        "target": "ányimal",
+        "canTarget": true
+    },
+    {
+        "original": "anyiye",
+        "target": "anyiye",
+        "canTarget": true
+    },
+    {
+        "original": "apapish",
+        "target": "apapish",
+        "canTarget": true
+    },
+    {
+        "original": "aseroka",
+        "target": "aseroka",
+        "canTarget": true
+    },
+    {
+        "original": "asilik",
+        "target": "asilik",
+        "canTarget": true
+    },
+    {
+        "original": "avita",
+        "target": "avita",
+        "canTarget": true
+    },
+    {
+        "original": "bang",
+        "target": "bang",
+        "canTarget": true
+    },
+    {
+        "original": "bap",
+        "target": "bap",
+        "canTarget": true
+    },
+    {
+        "original": "baseng",
+        "target": "baseng",
+        "canTarget": true
+    },
+    {
+        "original": "bek",
+        "target": "bek",
+        "canTarget": true
+    },
+    {
+        "original": "bek",
+        "target": "bek",
+        "canTarget": true
+    },
+    {
+        "original": "bekedabúsh",
+        "target": "bekedabúsh",
+        "canTarget": true
+    },
+    {
+        "original": "bekpelésh",
+        "target": "bekpelésh",
+        "canTarget": true
+    },
+    {
+        "original": "beláng",
+        "target": "beláng",
+        "canTarget": true
+    },
+    {
+        "original": "belék",
+        "target": "belék",
+        "canTarget": true
+    },
+    {
+        "original": "belówt",
+        "target": "belówt",
+        "canTarget": true
+    },
+    {
+        "original": "belta",
+        "target": "belta",
+        "canTarget": true
+    },
+    {
+        "original": "belta",
+        "target": "belta",
+        "canTarget": true
+    },
+    {
+        "original": "beltalowda",
+        "target": "beltalowda",
+        "canTarget": true
+    },
+    {
+        "original": "beltawala",
+        "target": "beltawala",
+        "canTarget": true
+    },
+    {
+        "original": "belú",
+        "target": "belú",
+        "canTarget": true
+    },
+    {
+        "original": "bera",
+        "target": "bera",
+        "canTarget": true
+    },
+    {
+        "original": "beratna",
+        "target": "beratna",
+        "canTarget": true
+    },
+    {
+        "original": "beref",
+        "target": "beref",
+        "canTarget": true
+    },
+    {
+        "original": "beve",
+        "target": "beve",
+        "canTarget": true
+    },
+    {
+        "original": "béveting",
+        "target": "béveting",
+        "canTarget": true
+    },
+    {
+        "original": "bi",
+        "target": "bi",
+        "canTarget": true
+    },
+    {
+        "original": "bik",
+        "target": "bik",
+        "canTarget": true
+    },
+    {
+        "original": "bikang",
+        "target": "bikang",
+        "canTarget": true
+    },
+    {
+        "original": "bingi",
+        "target": "bingi",
+        "canTarget": true
+    },
+    {
+        "original": "bitnesh",
+        "target": "bitnesh",
+        "canTarget": true
+    },
+    {
+        "original": "biya",
+        "target": "biya",
+        "canTarget": true
+    },
+    {
+        "original": "biya",
+        "target": "biya",
+        "canTarget": true
+    },
+    {
+        "original": "bodzha",
+        "target": "bodzha",
+        "canTarget": true
+    },
+    {
+        "original": "bosmang",
+        "target": "bosmang",
+        "canTarget": true
+    },
+    {
+        "original": "botiya",
+        "target": "botiya",
+        "canTarget": true
+    },
+    {
+        "original": "botong",
+        "target": "botong",
+        "canTarget": true
+    },
+    {
+        "original": "bowl",
+        "target": "bowl",
+        "canTarget": true
+    },
+    {
+        "original": "buk",
+        "target": "buk",
+        "canTarget": true
+    },
+    {
+        "original": "bukipelésh",
+        "target": "bukipelésh",
+        "canTarget": true
+    },
+    {
+        "original": "burito",
+        "target": "burito",
+        "canTarget": true
+    },
+    {
+        "original": "buro",
+        "target": "buro",
+        "canTarget": true
+    },
+    {
+        "original": "bush",
+        "target": "bush",
+        "canTarget": true
+    },
+    {
+        "original": "but",
+        "target": "but",
+        "canTarget": true
+    },
+    {
+        "original": "buza",
+        "target": "buza",
+        "canTarget": true
+    },
+    {
+        "original": "chek",
+        "target": "chek",
+        "canTarget": true
+    },
+    {
+        "original": "chesh",
+        "target": "chesh",
+        "canTarget": true
+    },
+    {
+        "original": "chu",
+        "target": "chu",
+        "canTarget": true
+    },
+    {
+        "original": "da",
+        "target": "da",
+        "canTarget": true
+    },
+    {
+        "original": "dansa",
+        "target": "dansa",
+        "canTarget": true
+    },
+    {
+        "original": "data",
+        "target": "data",
+        "canTarget": true
+    },
+    {
+        "original": "de",
+        "target": "de",
+        "canTarget": true
+    },
+    {
+        "original": "decho",
+        "target": "decho",
+        "canTarget": true
+    },
+    {
+        "original": "dédawang",
+        "target": "dédawang",
+        "canTarget": true
+    },
+    {
+        "original": "dédeya",
+        "target": "dédeya",
+        "canTarget": true
+    },
+    {
+        "original": "dek",
+        "target": "dek",
+        "canTarget": true
+    },
+    {
+        "original": "delowda",
+        "target": "delowda",
+        "canTarget": true
+    },
+    {
+        "original": "demang",
+        "target": "demang",
+        "canTarget": true
+    },
+    {
+        "original": "deng",
+        "target": "deng",
+        "canTarget": true
+    },
+    {
+        "original": "depelésh",
+        "target": "depelésh",
+        "canTarget": true
+    },
+    {
+        "original": "depeshang",
+        "target": "depeshang",
+        "canTarget": true
+    },
+    {
+        "original": "deradzhang",
+        "target": "deradzhang",
+        "canTarget": true
+    },
+    {
+        "original": "desh",
+        "target": "desh",
+        "canTarget": true
+    },
+    {
+        "original": "det",
+        "target": "det",
+        "canTarget": true
+    },
+    {
+        "original": "detim",
+        "target": "detim",
+        "canTarget": true
+    },
+    {
+        "original": "deting",
+        "target": "deting",
+        "canTarget": true
+    },
+    {
+        "original": "deva",
+        "target": "deva",
+        "canTarget": true
+    },
+    {
+        "original": "dewe",
+        "target": "dewe",
+        "canTarget": true
+    },
+    {
+        "original": "deya",
+        "target": "deya",
+        "canTarget": true
+    },
+    {
+        "original": "diye",
+        "target": "diye",
+        "canTarget": true
+    },
+    {
+        "original": "do",
+        "target": "do",
+        "canTarget": true
+    },
+    {
+        "original": "dok",
+        "target": "dok",
+        "canTarget": true
+    },
+    {
+        "original": "dokiwala",
+        "target": "dokiwala",
+        "canTarget": true
+    },
+    {
+        "original": "dowta",
+        "target": "dowta",
+        "canTarget": true
+    },
+    {
+        "original": "du",
+        "target": "du",
+        "canTarget": true
+    },
+    {
+        "original": "du-showxa",
+        "target": "dushowxa",
+        "canTarget": true
+    },
+    {
+        "original": "du-showxa",
+        "target": "dushowxa",
+        "canTarget": true
+    },
+    {
+        "original": "dura",
+        "target": "dura",
+        "canTarget": true
+    },
+    {
+        "original": "dusi",
+        "target": "dusi",
+        "canTarget": true
+    },
+    {
+        "original": "dusiwala",
+        "target": "dusiwala",
+        "canTarget": true
+    },
+    {
+        "original": "duting",
+        "target": "duting",
+        "canTarget": true
+    },
+    {
+        "original": "duting",
+        "target": "duting",
+        "canTarget": true
+    },
+    {
+        "original": "dzhemang",
+        "target": "dzhemang",
+        "canTarget": true
+    },
+    {
+        "original": "dzhi",
+        "target": "dzhi",
+        "canTarget": true
+    },
+    {
+        "original": "dzhing",
+        "target": "dzhing",
+        "canTarget": true
+    },
+    {
+        "original": "dzhogem",
+        "target": "dzhogem",
+        "canTarget": true
+    },
+    {
+        "original": "dzhush",
+        "target": "dzhush",
+        "canTarget": true
+    },
+    {
+        "original": "edamame",
+        "target": "edamame",
+        "canTarget": true
+    },
+    {
+        "original": "efa",
+        "target": "efa",
+        "canTarget": true
+    },
+    {
+        "original": "eka",
+        "target": "eka",
+        "canTarget": true
+    },
+    {
+        "original": "ékepesh",
+        "target": "ékepesh",
+        "canTarget": true
+    },
+    {
+        "original": "eletik",
+        "target": "eletik",
+        "canTarget": true
+    },
+    {
+        "original": "eletisi",
+        "target": "eletisi",
+        "canTarget": true
+    },
+    {
+        "original": "ematim",
+        "target": "ematim",
+        "canTarget": true
+    },
+    {
+        "original": "éntediye",
+        "target": "éntediye",
+        "canTarget": true
+    },
+    {
+        "original": "ényedzhi",
+        "target": "ényedzhi",
+        "canTarget": true
+    },
+    {
+        "original": "epinya",
+        "target": "epinya",
+        "canTarget": true
+    },
+    {
+        "original": "épisot",
+        "target": "épisot",
+        "canTarget": true
+    },
+    {
+        "original": "ere",
+        "target": "ere",
+        "canTarget": true
+    },
+    {
+        "original": "erefo",
+        "target": "erefo",
+        "canTarget": true
+    },
+    {
+        "original": "erelúf/éreluf",
+        "target": "erelúf",
+        "canTarget": true
+    },
+    {
+        "original": "érete",
+        "target": "érete",
+        "canTarget": true
+    },
+    {
+        "original": "et",
+        "target": "et",
+        "canTarget": true
+    },
+    {
+        "original": "et",
+        "target": "et",
+        "canTarget": true
+    },
+    {
+        "original": "étera",
+        "target": "étera",
+        "canTarget": true
+    },
+    {
+        "original": "éteteng",
+        "target": "éteteng",
+        "canTarget": true
+    },
+    {
+        "original": "étexanya",
+        "target": "étexanya",
+        "canTarget": true
+    },
+    {
+        "original": "faf",
+        "target": "faf",
+        "canTarget": true
+    },
+    {
+        "original": "fáfexanya",
+        "target": "fáfexanya",
+        "canTarget": true
+    },
+    {
+        "original": "fash",
+        "target": "fash",
+        "canTarget": true
+    },
+    {
+        "original": "fash",
+        "target": "fash",
+        "canTarget": true
+    },
+    {
+        "original": "fáveteng",
+        "target": "fáveteng",
+        "canTarget": true
+    },
+    {
+        "original": "felota",
+        "target": "felota",
+        "canTarget": true
+    },
+    {
+        "original": "ferádiye",
+        "target": "ferádiye",
+        "canTarget": true
+    },
+    {
+        "original": "ferí",
+        "target": "ferí",
+        "canTarget": true
+    },
+    {
+        "original": "feriting",
+        "target": "feriting",
+        "canTarget": true
+    },
+    {
+        "original": "feronte",
+        "target": "feronte",
+        "canTarget": true
+    },
+    {
+        "original": "fewa",
+        "target": "fewa",
+        "canTarget": true
+    },
+    {
+        "original": "fibafare",
+        "target": "fibafare",
+        "canTarget": true
+    },
+    {
+        "original": "fidesh",
+        "target": "fidesh",
+        "canTarget": true
+    },
+    {
+        "original": "fing",
+        "target": "fing",
+        "canTarget": true
+    },
+    {
+        "original": "finyish",
+        "target": "finyish",
+        "canTarget": true
+    },
+    {
+        "original": "fit",
+        "target": "fit",
+        "canTarget": true
+    },
+    {
+        "original": "fo",
+        "target": "fo",
+        "canTarget": true
+    },
+    {
+        "original": "fodagut",
+        "target": "fodagut",
+        "canTarget": true
+    },
+    {
+        "original": "fode",
+        "target": "fode",
+        "canTarget": true
+    },
+    {
+        "original": "fong",
+        "target": "fong",
+        "canTarget": true
+    },
+    {
+        "original": "fongi",
+        "target": "fongi",
+        "canTarget": true
+    },
+    {
+        "original": "fore",
+        "target": "fore",
+        "canTarget": true
+    },
+    {
+        "original": "foriya",
+        "target": "foriya",
+        "canTarget": true
+    },
+    {
+        "original": "fosh",
+        "target": "fosh",
+        "canTarget": true
+    },
+    {
+        "original": "fosho",
+        "target": "fosho",
+        "canTarget": true
+    },
+    {
+        "original": "fotet",
+        "target": "fotet",
+        "canTarget": true
+    },
+    {
+        "original": "foto",
+        "target": "foto",
+        "canTarget": true
+    },
+    {
+        "original": "fotowala",
+        "target": "fotowala",
+        "canTarget": true
+    },
+    {
+        "original": "fu",
+        "target": "fu",
+        "canTarget": true
+    },
+    {
+        "original": "fut",
+        "target": "fut",
+        "canTarget": true
+    },
+    {
+        "original": "futeng",
+        "target": "futeng",
+        "canTarget": true
+    },
+    {
+        "original": "fúxanya",
+        "target": "fúxanya",
+        "canTarget": true
+    },
+    {
+        "original": "gang",
+        "target": "gang",
+        "canTarget": true
+    },
+    {
+        "original": "ganya",
+        "target": "ganya",
+        "canTarget": true
+    },
+    {
+        "original": "gányamang",
+        "target": "gányamang",
+        "canTarget": true
+    },
+    {
+        "original": "gash",
+        "target": "gash",
+        "canTarget": true
+    },
+    {
+        "original": "gatamang",
+        "target": "gatamang",
+        "canTarget": true
+    },
+    {
+        "original": "ge",
+        "target": "ge",
+        "canTarget": true
+    },
+    {
+        "original": "gelori",
+        "target": "gelori",
+        "canTarget": true
+    },
+    {
+        "original": "gerówsh",
+        "target": "gerówsh",
+        "canTarget": true
+    },
+    {
+        "original": "gif",
+        "target": "gif",
+        "canTarget": true
+    },
+    {
+        "original": "gif-go",
+        "target": "gifgo",
+        "canTarget": true
+    },
+    {
+        "original": "gif-peye",
+        "target": "gifpeye",
+        "canTarget": true
+    },
+    {
+        "original": "giviwala",
+        "target": "giviwala",
+        "canTarget": true
+    },
+    {
+        "original": "go",
+        "target": "go",
+        "canTarget": true
+    },
+    {
+        "original": "godzha",
+        "target": "godzha",
+        "canTarget": true
+    },
+    {
+        "original": "gonya",
+        "target": "gonya",
+        "canTarget": true
+    },
+    {
+        "original": "gosh",
+        "target": "gosh",
+        "canTarget": true
+    },
+    {
+        "original": "got",
+        "target": "got",
+        "canTarget": true
+    },
+    {
+        "original": "gótefodam",
+        "target": "gótefodam",
+        "canTarget": true
+    },
+    {
+        "original": "gova",
+        "target": "gova",
+        "canTarget": true
+    },
+    {
+        "original": "gova-tet",
+        "target": "govatet",
+        "canTarget": true
+    },
+    {
+        "original": "govawala",
+        "target": "govawala",
+        "canTarget": true
+    },
+    {
+        "original": "gufovedi",
+        "target": "gufovedi",
+        "canTarget": true
+    },
+    {
+        "original": "gut",
+        "target": "gut",
+        "canTarget": true
+    },
+    {
+        "original": "gútegow",
+        "target": "gútegow",
+        "canTarget": true
+    },
+    {
+        "original": "gútemang",
+        "target": "gútemang",
+        "canTarget": true
+    },
+    {
+        "original": "idzhi",
+        "target": "idzhi",
+        "canTarget": true
+    },
+    {
+        "original": "idzhifobék",
+        "target": "idzhifobék",
+        "canTarget": true
+    },
+    {
+        "original": "im",
+        "target": "im",
+        "canTarget": true
+    },
+    {
+        "original": "imalowda",
+        "target": "imalowda",
+        "canTarget": true
+    },
+    {
+        "original": "imbobo",
+        "target": "imbobo",
+        "canTarget": true
+    },
+    {
+        "original": "imim",
+        "target": "imim",
+        "canTarget": true
+    },
+    {
+        "original": "impake",
+        "target": "impake",
+        "canTarget": false
+    },
+    {
+        "original": "inteng",
+        "target": "inteng",
+        "canTarget": true
+    },
+    {
+        "original": "inya",
+        "target": "inya",
+        "canTarget": true
+    },
+    {
+        "original": "inyalowda",
+        "target": "inyalowda",
+        "canTarget": true
+    },
+    {
+        "original": "ipulangi",
+        "target": "ipulangi",
+        "canTarget": true
+    },
+    {
+        "original": "kaka",
+        "target": "kaka",
+        "canTarget": true
+    },
+    {
+        "original": "kamera",
+        "target": "kamera",
+        "canTarget": true
+    },
+    {
+        "original": "kang",
+        "target": "kang",
+        "canTarget": true
+    },
+    {
+        "original": "kapa",
+        "target": "kapa",
+        "canTarget": true
+    },
+    {
+        "original": "kapawu",
+        "target": "kapawu",
+        "canTarget": true
+    },
+    {
+        "original": "kasi",
+        "target": "kasi",
+        "canTarget": true
+    },
+    {
+        "original": "kasinyo",
+        "target": "kasinyo",
+        "canTarget": true
+    },
+    {
+        "original": "kaxa",
+        "target": "kaxa",
+        "canTarget": true
+    },
+    {
+        "original": "ke",
+        "target": "ke",
+        "canTarget": true
+    },
+    {
+        "original": "kédawang",
+        "target": "kédawang",
+        "canTarget": true
+    },
+    {
+        "original": "kekoku",
+        "target": "kekoku",
+        "canTarget": true
+    },
+    {
+        "original": "kelowda",
+        "target": "kelowda",
+        "canTarget": true
+    },
+    {
+        "original": "kemang",
+        "target": "kemang",
+        "canTarget": true
+    },
+    {
+        "original": "kená",
+        "target": "kená",
+        "canTarget": true
+    },
+    {
+        "original": "keng",
+        "target": "keng",
+        "canTarget": true
+    },
+    {
+        "original": "kepelésh",
+        "target": "kepelésh",
+        "canTarget": true
+    },
+    {
+        "original": "keradzhang",
+        "target": "keradzhang",
+        "canTarget": true
+    },
+    {
+        "original": "keredu",
+        "target": "keredu",
+        "canTarget": true
+    },
+    {
+        "original": "ketim",
+        "target": "ketim",
+        "canTarget": true
+    },
+    {
+        "original": "keting",
+        "target": "keting",
+        "canTarget": true
+    },
+    {
+        "original": "kewe",
+        "target": "kewe",
+        "canTarget": true
+    },
+    {
+        "original": "keweting",
+        "target": "keweting",
+        "canTarget": true
+    },
+    {
+        "original": "keyá",
+        "target": "keyá",
+        "canTarget": true
+    },
+    {
+        "original": "kímechi",
+        "target": "kímechi",
+        "canTarget": true
+    },
+    {
+        "original": "ko",
+        "target": "ko",
+        "canTarget": true
+    },
+    {
+        "original": "kom",
+        "target": "kom",
+        "canTarget": true
+    },
+    {
+        "original": "kom-go",
+        "target": "komgo",
+        "canTarget": true
+    },
+    {
+        "original": "koma",
+        "target": "koma",
+        "canTarget": true
+    },
+    {
+        "original": "komante",
+        "target": "komante",
+        "canTarget": true
+    },
+    {
+        "original": "kombat",
+        "target": "kombat",
+        "canTarget": true
+    },
+    {
+        "original": "kómeting",
+        "target": "kómeting",
+        "canTarget": true
+    },
+    {
+        "original": "koming",
+        "target": "koming",
+        "canTarget": true
+    },
+    {
+        "original": "kondenashang",
+        "target": "kondenashang",
+        "canTarget": true
+    },
+    {
+        "original": "kong",
+        "target": "kong",
+        "canTarget": true
+    },
+    {
+        "original": "kontów",
+        "target": "kontów",
+        "canTarget": true
+    },
+    {
+        "original": "kopa",
+        "target": "kopa",
+        "canTarget": true
+    },
+    {
+        "original": "kopeng",
+        "target": "kopeng",
+        "canTarget": true
+    },
+    {
+        "original": "kopush",
+        "target": "kopush",
+        "canTarget": true
+    },
+    {
+        "original": "kori",
+        "target": "kori",
+        "canTarget": true
+    },
+    {
+        "original": "kosh",
+        "target": "kosh",
+        "canTarget": true
+    },
+    {
+        "original": "kosh",
+        "target": "kosh",
+        "canTarget": true
+    },
+    {
+        "original": "kowl",
+        "target": "kowl",
+        "canTarget": true
+    },
+    {
+        "original": "kowltim",
+        "target": "kowltim",
+        "canTarget": true
+    },
+    {
+        "original": "kowlting",
+        "target": "kowlting",
+        "canTarget": true
+    },
+    {
+        "original": "kowmang",
+        "target": "kowmang",
+        "canTarget": true
+    },
+    {
+        "original": "kowpelésh",
+        "target": "kowpelésh",
+        "canTarget": true
+    },
+    {
+        "original": "koyo",
+        "target": "koyo",
+        "canTarget": true
+    },
+    {
+        "original": "kuku",
+        "target": "kuku",
+        "canTarget": true
+    },
+    {
+        "original": "kula",
+        "target": "kula",
+        "canTarget": true
+    },
+    {
+        "original": "kush",
+        "target": "kush",
+        "canTarget": true
+    },
+    {
+        "original": "kuwang",
+        "target": "kuwang",
+        "canTarget": true
+    },
+    {
+        "original": "kuxaku",
+        "target": "kuxaku",
+        "canTarget": true
+    },
+    {
+        "original": "lang",
+        "target": "lang",
+        "canTarget": true
+    },
+    {
+        "original": "lángemang",
+        "target": "lángemang",
+        "canTarget": true
+    },
+    {
+        "original": "lansh",
+        "target": "lansh",
+        "canTarget": true
+    },
+    {
+        "original": "le",
+        "target": "le",
+        "canTarget": true
+    },
+    {
+        "original": "légawu",
+        "target": "légawu",
+        "canTarget": true
+    },
+    {
+        "original": "lek",
+        "target": "lek",
+        "canTarget": true
+    },
+    {
+        "original": "lenta",
+        "target": "lenta",
+        "canTarget": true
+    },
+    {
+        "original": "leta",
+        "target": "leta",
+        "canTarget": true
+    },
+    {
+        "original": "leta-go",
+        "target": "letago",
+        "canTarget": true
+    },
+    {
+        "original": "leta-kom",
+        "target": "letakom",
+        "canTarget": true
+    },
+    {
+        "original": "leva",
+        "target": "leva",
+        "canTarget": true
+    },
+    {
+        "original": "leyal",
+        "target": "leyal",
+        "canTarget": true
+    },
+    {
+        "original": "leyalting",
+        "target": "leyalting",
+        "canTarget": true
+    },
+    {
+        "original": "lik",
+        "target": "lik",
+        "canTarget": true
+    },
+    {
+        "original": "líperi",
+        "target": "líperi",
+        "canTarget": true
+    },
+    {
+        "original": "lit",
+        "target": "lit",
+        "canTarget": true
+    },
+    {
+        "original": "livit",
+        "target": "livit",
+        "canTarget": true
+    },
+    {
+        "original": "liviting",
+        "target": "liviting",
+        "canTarget": true
+    },
+    {
+        "original": "lok",
+        "target": "lok",
+        "canTarget": true
+    },
+    {
+        "original": "losh",
+        "target": "losh",
+        "canTarget": true
+    },
+    {
+        "original": "lowkedong",
+        "target": "lowkedong",
+        "canTarget": true
+    },
+    {
+        "original": "lowng",
+        "target": "lowng",
+        "canTarget": true
+    },
+    {
+        "original": "lusa",
+        "target": "lusa",
+        "canTarget": true
+    },
+    {
+        "original": "lúsamang",
+        "target": "lúsamang",
+        "canTarget": true
+    },
+    {
+        "original": "lush",
+        "target": "lush",
+        "canTarget": true
+    },
+    {
+        "original": "ma",
+        "target": "ma",
+        "canTarget": true
+    },
+    {
+        "original": "mal",
+        "target": "mal",
+        "canTarget": true
+    },
+    {
+        "original": "mali",
+        "target": "mali",
+        "canTarget": true
+    },
+    {
+        "original": "málimang",
+        "target": "málimang",
+        "canTarget": true
+    },
+    {
+        "original": "maliwala",
+        "target": "maliwala",
+        "canTarget": true
+    },
+    {
+        "original": "mama",
+        "target": "mama",
+        "canTarget": true
+    },
+    {
+        "original": "mámamang",
+        "target": "mámamang",
+        "canTarget": true
+    },
+    {
+        "original": "mang",
+        "target": "mang",
+        "canTarget": true
+    },
+    {
+        "original": "manting",
+        "target": "manting",
+        "canTarget": true
+    },
+    {
+        "original": "mash",
+        "target": "mash",
+        "canTarget": true
+    },
+    {
+        "original": "materi",
+        "target": "materi",
+        "canTarget": true
+    },
+    {
+        "original": "matna",
+        "target": "matna",
+        "canTarget": true
+    },
+    {
+        "original": "matnawala",
+        "target": "matnawala",
+        "canTarget": true
+    },
+    {
+        "original": "mebi",
+        "target": "mebi",
+        "canTarget": true
+    },
+    {
+        "original": "mediwala",
+        "target": "mediwala",
+        "canTarget": true
+    },
+    {
+        "original": "melodiye",
+        "target": "melodiye",
+        "canTarget": true
+    },
+    {
+        "original": "meng",
+        "target": "meng",
+        "canTarget": true
+    },
+    {
+        "original": "menyu",
+        "target": "menyu",
+        "canTarget": true
+    },
+    {
+        "original": "mesa",
+        "target": "mesa",
+        "canTarget": true
+    },
+    {
+        "original": "mesach",
+        "target": "mesach",
+        "canTarget": true
+    },
+    {
+        "original": "meshang",
+        "target": "meshang",
+        "canTarget": true
+    },
+    {
+        "original": "métexeng",
+        "target": "métexeng",
+        "canTarget": true
+    },
+    {
+        "original": "meyo",
+        "target": "meyo",
+        "canTarget": true
+    },
+    {
+        "original": "mi",
+        "target": "mi",
+        "canTarget": true
+    },
+    {
+        "original": "milowda",
+        "target": "milowda",
+        "canTarget": true
+    },
+    {
+        "original": "minyi",
+        "target": "minyi",
+        "canTarget": true
+    },
+    {
+        "original": "miso",
+        "target": "miso",
+        "canTarget": true
+    },
+    {
+        "original": "misong",
+        "target": "misong",
+        "canTarget": true
+    },
+    {
+        "original": "mo",
+        "target": "mo",
+        "canTarget": true
+    },
+    {
+        "original": "mogut",
+        "target": "mogut",
+        "canTarget": true
+    },
+    {
+        "original": "momal",
+        "target": "momal",
+        "canTarget": true
+    },
+    {
+        "original": "momenta",
+        "target": "momenta",
+        "canTarget": true
+    },
+    {
+        "original": "mosh",
+        "target": "mosh",
+        "canTarget": true
+    },
+    {
+        "original": "moshisolo",
+        "target": "moshisolo",
+        "canTarget": true
+    },
+    {
+        "original": "mowsh",
+        "target": "mowsh",
+        "canTarget": true
+    },
+    {
+        "original": "mowteng",
+        "target": "mowteng",
+        "canTarget": true
+    },
+    {
+        "original": "mung",
+        "target": "mung",
+        "canTarget": true
+    },
+    {
+        "original": "na",
+        "target": "na",
+        "canTarget": true
+    },
+    {
+        "original": "nada",
+        "target": "nada",
+        "canTarget": true
+    },
+    {
+        "original": "nadzhush",
+        "target": "nadzhush",
+        "canTarget": true
+    },
+    {
+        "original": "nafut",
+        "target": "nafut",
+        "canTarget": true
+    },
+    {
+        "original": "nago",
+        "target": "nago",
+        "canTarget": true
+    },
+    {
+        "original": "nakángego",
+        "target": "nakángego",
+        "canTarget": true
+    },
+    {
+        "original": "nakángikeng",
+        "target": "nakángikeng",
+        "canTarget": true
+    },
+    {
+        "original": "nalik",
+        "target": "nalik",
+        "canTarget": true
+    },
+    {
+        "original": "nalok",
+        "target": "nalok",
+        "canTarget": true
+    },
+    {
+        "original": "nalush",
+        "target": "nalush",
+        "canTarget": true
+    },
+    {
+        "original": "namang",
+        "target": "namang",
+        "canTarget": true
+    },
+    {
+        "original": "nang",
+        "target": "nang",
+        "canTarget": true
+    },
+    {
+        "original": "nángeteng",
+        "target": "nángeteng",
+        "canTarget": true
+    },
+    {
+        "original": "nángexanya",
+        "target": "nángexanya",
+        "canTarget": true
+    },
+    {
+        "original": "nasheng",
+        "target": "nasheng",
+        "canTarget": true
+    },
+    {
+        "original": "nasunte",
+        "target": "nasunte",
+        "canTarget": true
+    },
+    {
+        "original": "náterash",
+        "target": "náterash",
+        "canTarget": true
+    },
+    {
+        "original": "natét",
+        "target": "natét",
+        "canTarget": true
+    },
+    {
+        "original": "natim",
+        "target": "natim",
+        "canTarget": true
+    },
+    {
+        "original": "nating",
+        "target": "nating",
+        "canTarget": true
+    },
+    {
+        "original": "navigeshang",
+        "target": "navigeshang",
+        "canTarget": true
+    },
+    {
+        "original": "nawit",
+        "target": "nawit",
+        "canTarget": true
+    },
+    {
+        "original": "nax",
+        "target": "nax",
+        "canTarget": true
+    },
+    {
+        "original": "nem",
+        "target": "nem",
+        "canTarget": true
+    },
+    {
+        "original": "not",
+        "target": "not",
+        "canTarget": true
+    },
+    {
+        "original": "nuva",
+        "target": "nuva",
+        "canTarget": true
+    },
+    {
+        "original": "o",
+        "target": "o",
+        "canTarget": true
+    },
+    {
+        "original": "obi",
+        "target": "obi",
+        "canTarget": true
+    },
+    {
+        "original": "ofisha",
+        "target": "ofisha",
+        "canTarget": true
+    },
+    {
+        "original": "okwakakawala",
+        "target": "okwakakawala",
+        "canTarget": true
+    },
+    {
+        "original": "ong",
+        "target": "ong",
+        "canTarget": true
+    },
+    {
+        "original": "onyigiri",
+        "target": "onyigiri",
+        "canTarget": true
+    },
+    {
+        "original": "openg",
+        "target": "openg",
+        "canTarget": true
+    },
+    {
+        "original": "operashang",
+        "target": "operashang",
+        "canTarget": true
+    },
+    {
+        "original": "ora",
+        "target": "ora",
+        "canTarget": true
+    },
+    {
+        "original": "oso",
+        "target": "oso",
+        "canTarget": true
+    },
+    {
+        "original": "ówala",
+        "target": "ówala",
+        "canTarget": true
+    },
+    {
+        "original": "owbit",
+        "target": "owbit",
+        "canTarget": true
+    },
+    {
+        "original": "owkwa",
+        "target": "owkwa",
+        "canTarget": true
+    },
+    {
+        "original": "owlesi",
+        "target": "owlesi",
+        "canTarget": true
+    },
+    {
+        "original": "owte",
+        "target": "owte",
+        "canTarget": true
+    },
+    {
+        "original": "oxo",
+        "target": "oxo",
+        "canTarget": true
+    },
+    {
+        "original": "oxo",
+        "target": "oxo",
+        "canTarget": true
+    },
+    {
+        "original": "oye",
+        "target": "oye",
+        "canTarget": true
+    },
+    {
+        "original": "oyedeng",
+        "target": "oyedeng",
+        "canTarget": true
+    },
+    {
+        "original": "pagal",
+        "target": "pagal",
+        "canTarget": true
+    },
+    {
+        "original": "pampa",
+        "target": "pampa",
+        "canTarget": true
+    },
+    {
+        "original": "papeka",
+        "target": "papeka",
+        "canTarget": true
+    },
+    {
+        "original": "pash",
+        "target": "pash",
+        "canTarget": true
+    },
+    {
+        "original": "pash",
+        "target": "pash",
+        "canTarget": true
+    },
+    {
+        "original": "pashang",
+        "target": "pashang",
+        "canTarget": true
+    },
+    {
+        "original": "pashang",
+        "target": "pashang",
+        "canTarget": true
+    },
+    {
+        "original": "pashang",
+        "target": "pashang",
+        "canTarget": true
+    },
+    {
+        "original": "pashángimang",
+        "target": "pashángimang",
+        "canTarget": true
+    },
+    {
+        "original": "pashángimang",
+        "target": "pashángimang",
+        "canTarget": true
+    },
+    {
+        "original": "pashangwala",
+        "target": "pashangwala",
+        "canTarget": true
+    },
+    {
+        "original": "pati",
+        "target": "pati",
+        "canTarget": true
+    },
+    {
+        "original": "páxari",
+        "target": "páxari",
+        "canTarget": true
+    },
+    {
+        "original": "paxo",
+        "target": "paxo",
+        "canTarget": true
+    },
+    {
+        "original": "paxoníseki",
+        "target": "paxoníseki",
+        "canTarget": true
+    },
+    {
+        "original": "paxopigi",
+        "target": "paxopigi",
+        "canTarget": true
+    },
+    {
+        "original": "pegunta",
+        "target": "pegunta",
+        "canTarget": true
+    },
+    {
+        "original": "pelésh",
+        "target": "pelésh",
+        "canTarget": true
+    },
+    {
+        "original": "pelésh-pelésh",
+        "target": "peléshpelésh",
+        "canTarget": true
+    },
+    {
+        "original": "peng",
+        "target": "peng",
+        "canTarget": true
+    },
+    {
+        "original": "pensa",
+        "target": "pensa",
+        "canTarget": true
+    },
+    {
+        "original": "perepish",
+        "target": "perepish",
+        "canTarget": true
+    },
+    {
+        "original": "peroba",
+        "target": "peroba",
+        "canTarget": true
+    },
+    {
+        "original": "pesha",
+        "target": "pesha",
+        "canTarget": true
+    },
+    {
+        "original": "peshi",
+        "target": "peshi",
+        "canTarget": true
+    },
+    {
+        "original": "pexa",
+        "target": "pexa",
+        "canTarget": true
+    },
+    {
+        "original": "péyeting",
+        "target": "péyeting",
+        "canTarget": true
+    },
+    {
+        "original": "pikante",
+        "target": "pikante",
+        "canTarget": true
+    },
+    {
+        "original": "pilota",
+        "target": "pilota",
+        "canTarget": true
+    },
+    {
+        "original": "pirata",
+        "target": "pirata",
+        "canTarget": true
+    },
+    {
+        "original": "pish",
+        "target": "pish",
+        "canTarget": true
+    },
+    {
+        "original": "pish",
+        "target": "pish",
+        "canTarget": true
+    },
+    {
+        "original": "pish",
+        "target": "pish",
+        "canTarget": true
+    },
+    {
+        "original": "po",
+        "target": "po",
+        "canTarget": true
+    },
+    {
+        "original": "pochuye",
+        "target": "pochuye",
+        "canTarget": true
+    },
+    {
+        "original": "pólisi",
+        "target": "pólisi",
+        "canTarget": true
+    },
+    {
+        "original": "pomang",
+        "target": "pomang",
+        "canTarget": true
+    },
+    {
+        "original": "pura",
+        "target": "pura",
+        "canTarget": true
+    },
+    {
+        "original": "push",
+        "target": "push",
+        "canTarget": true
+    },
+    {
+        "original": "radzhang",
+        "target": "radzhang",
+        "canTarget": true
+    },
+    {
+        "original": "rat",
+        "target": "rat",
+        "canTarget": true
+    },
+    {
+        "original": "raya",
+        "target": "raya",
+        "canTarget": true
+    },
+    {
+        "original": "redeshang",
+        "target": "redeshang",
+        "canTarget": true
+    },
+    {
+        "original": "rédzherosh",
+        "target": "rédzherosh",
+        "canTarget": true
+    },
+    {
+        "original": "redzhulta",
+        "target": "redzhulta",
+        "canTarget": true
+    },
+    {
+        "original": "rémbera",
+        "target": "rémbera",
+        "canTarget": true
+    },
+    {
+        "original": "ret",
+        "target": "ret",
+        "canTarget": true
+    },
+    {
+        "original": "retnet",
+        "target": "retnet",
+        "canTarget": true
+    },
+    {
+        "original": "revelushang",
+        "target": "revelushang",
+        "canTarget": true
+    },
+    {
+        "original": "richa",
+        "target": "richa",
+        "canTarget": true
+    },
+    {
+        "original": "rísiko",
+        "target": "rísiko",
+        "canTarget": true
+    },
+    {
+        "original": "ritem",
+        "target": "ritem",
+        "canTarget": true
+    },
+    {
+        "original": "riyaka",
+        "target": "riyaka",
+        "canTarget": true
+    },
+    {
+        "original": "rowm",
+        "target": "rowm",
+        "canTarget": true
+    },
+    {
+        "original": "rowmwala",
+        "target": "rowmwala",
+        "canTarget": true
+    },
+    {
+        "original": "rowu",
+        "target": "rowu",
+        "canTarget": true
+    },
+    {
+        "original": "ruchirownya",
+        "target": "ruchirownya",
+        "canTarget": true
+    },
+    {
+        "original": "rúserux",
+        "target": "rúserux",
+        "canTarget": true
+    },
+    {
+        "original": "sabaka",
+        "target": "sabaka",
+        "canTarget": true
+    },
+    {
+        "original": "sabakawala",
+        "target": "sabakawala",
+        "canTarget": true
+    },
+    {
+        "original": "sake",
+        "target": "sake",
+        "canTarget": true
+    },
+    {
+        "original": "sako",
+        "target": "sako",
+        "canTarget": true
+    },
+    {
+        "original": "sakopinya",
+        "target": "sakopinya",
+        "canTarget": true
+    },
+    {
+        "original": "salta",
+        "target": "salta",
+        "canTarget": true
+    },
+    {
+        "original": "sasa",
+        "target": "sasa",
+        "canTarget": true
+    },
+    {
+        "original": "sáviting",
+        "target": "sáviting",
+        "canTarget": true
+    },
+    {
+        "original": "sedneshang",
+        "target": "sedneshang",
+        "canTarget": true
+    },
+    {
+        "original": "séfesowng",
+        "target": "séfesowng",
+        "canTarget": true
+    },
+    {
+        "original": "séfeti",
+        "target": "séfeti",
+        "canTarget": true
+    },
+    {
+        "original": "sefoka",
+        "target": "sefoka",
+        "canTarget": true
+    },
+    {
+        "original": "sekang",
+        "target": "sekang",
+        "canTarget": true
+    },
+    {
+        "original": "sekáng",
+        "target": "sekáng",
+        "canTarget": true
+    },
+    {
+        "original": "sekeríp",
+        "target": "sekeríp",
+        "canTarget": true
+    },
+    {
+        "original": "sekóch",
+        "target": "sekóch",
+        "canTarget": true
+    },
+    {
+        "original": "seleshang",
+        "target": "seleshang",
+        "canTarget": true
+    },
+    {
+        "original": "sem",
+        "target": "sem",
+        "canTarget": true
+    },
+    {
+        "original": "semówt",
+        "target": "semówt",
+        "canTarget": true
+    },
+    {
+        "original": "sémpere",
+        "target": "sémpere",
+        "canTarget": true
+    },
+    {
+        "original": "seng",
+        "target": "seng",
+        "canTarget": true
+    },
+    {
+        "original": "séngeteng",
+        "target": "séngeteng",
+        "canTarget": true
+    },
+    {
+        "original": "séngexanya",
+        "target": "séngexanya",
+        "canTarget": true
+    },
+    {
+        "original": "senyawu",
+        "target": "senyawu",
+        "canTarget": true
+    },
+    {
+        "original": "senyidiye",
+        "target": "senyidiye",
+        "canTarget": true
+    },
+    {
+        "original": "sepíng",
+        "target": "sepíng",
+        "canTarget": true
+    },
+    {
+        "original": "sera",
+        "target": "sera",
+        "canTarget": true
+    },
+    {
+        "original": "serí",
+        "target": "serí",
+        "canTarget": true
+    },
+    {
+        "original": "seríp",
+        "target": "seríp",
+        "canTarget": true
+    },
+    {
+        "original": "seriteng",
+        "target": "seriteng",
+        "canTarget": true
+    },
+    {
+        "original": "seritenyidiye",
+        "target": "seritenyidiye",
+        "canTarget": true
+    },
+    {
+        "original": "seríxanya",
+        "target": "seríxanya",
+        "canTarget": true
+    },
+    {
+        "original": "ses",
+        "target": "ses",
+        "canTarget": true
+    },
+    {
+        "original": "sésata",
+        "target": "sésata",
+        "canTarget": true
+    },
+    {
+        "original": "setara",
+        "target": "setara",
+        "canTarget": true
+    },
+    {
+        "original": "seteráx",
+        "target": "seteráx",
+        "canTarget": true
+    },
+    {
+        "original": "seteshang",
+        "target": "seteshang",
+        "canTarget": true
+    },
+    {
+        "original": "setóp",
+        "target": "setóp",
+        "canTarget": true
+    },
+    {
+        "original": "setóriye",
+        "target": "setóriye",
+        "canTarget": true
+    },
+    {
+        "original": "sevelang",
+        "target": "sevelang",
+        "canTarget": true
+    },
+    {
+        "original": "shapu",
+        "target": "shapu",
+        "canTarget": true
+    },
+    {
+        "original": "shāsa",
+        "target": "shāsa",
+        "canTarget": false
+    },
+    {
+        "original": "sheláf",
+        "target": "sheláf",
+        "canTarget": true
+    },
+    {
+        "original": "shelta",
+        "target": "shelta",
+        "canTarget": true
+    },
+    {
+        "original": "sheng",
+        "target": "sheng",
+        "canTarget": true
+    },
+    {
+        "original": "sherú",
+        "target": "sherú",
+        "canTarget": true
+    },
+    {
+        "original": "shetexe",
+        "target": "shetexe",
+        "canTarget": true
+    },
+    {
+        "original": "shetéxeting",
+        "target": "shetéxeting",
+        "canTarget": true
+    },
+    {
+        "original": "shif",
+        "target": "shif",
+        "canTarget": true
+    },
+    {
+        "original": "shio",
+        "target": "shio",
+        "canTarget": true
+    },
+    {
+        "original": "shípemang",
+        "target": "shípemang",
+        "canTarget": true
+    },
+    {
+        "original": "showxa",
+        "target": "showxa",
+        "canTarget": true
+    },
+    {
+        "original": "showxating",
+        "target": "showxating",
+        "canTarget": true
+    },
+    {
+        "original": "shoyu",
+        "target": "shoyu",
+        "canTarget": true
+    },
+    {
+        "original": "shukumi",
+        "target": "shukumi",
+        "canTarget": true
+    },
+    {
+        "original": "si",
+        "target": "si",
+        "canTarget": true
+    },
+    {
+        "original": "sif",
+        "target": "sif",
+        "canTarget": true
+    },
+    {
+        "original": "síkeseteng",
+        "target": "síkeseteng",
+        "canTarget": true
+    },
+    {
+        "original": "síkesexanya",
+        "target": "síkesexanya",
+        "canTarget": true
+    },
+    {
+        "original": "sikesh",
+        "target": "sikesh",
+        "canTarget": true
+    },
+    {
+        "original": "sili",
+        "target": "sili",
+        "canTarget": true
+    },
+    {
+        "original": "sisang",
+        "target": "sisang",
+        "canTarget": true
+    },
+    {
+        "original": "sit",
+        "target": "sit",
+        "canTarget": true
+    },
+    {
+        "original": "so",
+        "target": "so",
+        "canTarget": true
+    },
+    {
+        "original": "sodzha",
+        "target": "sodzha",
+        "canTarget": true
+    },
+    {
+        "original": "solo",
+        "target": "solo",
+        "canTarget": true
+    },
+    {
+        "original": "sow",
+        "target": "sow",
+        "canTarget": true
+    },
+    {
+        "original": "sówng",
+        "target": "sowng",
+        "canTarget": true
+    },
+    {
+        "original": "sowngit",
+        "target": "sowngit",
+        "canTarget": true
+    },
+    {
+        "original": "sownte",
+        "target": "sownte",
+        "canTarget": true
+    },
+    {
+        "original": "soyá",
+        "target": "soyá",
+        "canTarget": true
+    },
+    {
+        "original": "suchok",
+        "target": "suchok",
+        "canTarget": true
+    },
+    {
+        "original": "sukit",
+        "target": "sukit",
+        "canTarget": true
+    },
+    {
+        "original": "suku",
+        "target": "suku",
+        "canTarget": true
+    },
+    {
+        "original": "sunte",
+        "target": "sunte",
+        "canTarget": true
+    },
+    {
+        "original": "sut",
+        "target": "sut",
+        "canTarget": true
+    },
+    {
+        "original": "ta",
+        "target": "ta",
+        "canTarget": true
+    },
+    {
+        "original": "tadisong",
+        "target": "tadisong",
+        "canTarget": true
+    },
+    {
+        "original": "taki",
+        "target": "taki",
+        "canTarget": true
+    },
+    {
+        "original": "takoyaki",
+        "target": "takoyaki",
+        "canTarget": true
+    },
+    {
+        "original": "tatuyingi",
+        "target": "tatuyingi",
+        "canTarget": true
+    },
+    {
+        "original": "tékidok",
+        "target": "tékidok",
+        "canTarget": true
+    },
+    {
+        "original": "tékimang",
+        "target": "tékimang",
+        "canTarget": true
+    },
+    {
+        "original": "tékiting",
+        "target": "tékiting",
+        "canTarget": true
+    },
+    {
+        "original": "tekiwa",
+        "target": "tekiwa",
+        "canTarget": true
+    },
+    {
+        "original": "tempe",
+        "target": "tempe",
+        "canTarget": true
+    },
+    {
+        "original": "teng",
+        "target": "teng",
+        "canTarget": true
+    },
+    {
+        "original": "tensha",
+        "target": "tensha",
+        "canTarget": true
+    },
+    {
+        "original": "tenyanyiye",
+        "target": "tenyanyiye",
+        "canTarget": true
+    },
+    {
+        "original": "tenye",
+        "target": "tenye",
+        "canTarget": true
+    },
+    {
+        "original": "terampa",
+        "target": "terampa",
+        "canTarget": true
+    },
+    {
+        "original": "terásh",
+        "target": "terásh",
+        "canTarget": true
+    },
+    {
+        "original": "terásheting",
+        "target": "terásheting",
+        "canTarget": true
+    },
+    {
+        "original": "teristi",
+        "target": "teristi",
+        "canTarget": true
+    },
+    {
+        "original": "tet",
+        "target": "tet",
+        "canTarget": true
+    },
+    {
+        "original": "tiki",
+        "target": "tiki",
+        "canTarget": true
+    },
+    {
+        "original": "tili",
+        "target": "tili",
+        "canTarget": true
+    },
+    {
+        "original": "tim",
+        "target": "tim",
+        "canTarget": true
+    },
+    {
+        "original": "ting",
+        "target": "ting",
+        "canTarget": true
+    },
+    {
+        "original": "to",
+        "target": "to",
+        "canTarget": true
+    },
+    {
+        "original": "tolowda",
+        "target": "tolowda",
+        "canTarget": true
+    },
+    {
+        "original": "tomak",
+        "target": "tomak",
+        "canTarget": true
+    },
+    {
+        "original": "towchu",
+        "target": "towchu",
+        "canTarget": true
+    },
+    {
+        "original": "towseng",
+        "target": "towseng",
+        "canTarget": true
+    },
+    {
+        "original": "towsh",
+        "target": "towsh",
+        "canTarget": true
+    },
+    {
+        "original": "tubik",
+        "target": "tubik",
+        "canTarget": true
+    },
+    {
+        "original": "tudiye",
+        "target": "tudiye",
+        "canTarget": true
+    },
+    {
+        "original": "tufash",
+        "target": "tufash",
+        "canTarget": true
+    },
+    {
+        "original": "túgufovedi",
+        "target": "túgufovedi",
+        "canTarget": true
+    },
+    {
+        "original": "tugut",
+        "target": "tugut",
+        "canTarget": true
+    },
+    {
+        "original": "tumal",
+        "target": "tumal",
+        "canTarget": true
+    },
+    {
+        "original": "tumali",
+        "target": "tumali",
+        "canTarget": true
+    },
+    {
+        "original": "tumang",
+        "target": "tumang",
+        "canTarget": true
+    },
+    {
+        "original": "túngeting",
+        "target": "túngeting",
+        "canTarget": true
+    },
+    {
+        "original": "tuteng",
+        "target": "tuteng",
+        "canTarget": true
+    },
+    {
+        "original": "tutim",
+        "target": "tutim",
+        "canTarget": true
+    },
+    {
+        "original": "túxanya",
+        "target": "túxanya",
+        "canTarget": true
+    },
+    {
+        "original": "ubicha",
+        "target": "ubicha",
+        "canTarget": true
+    },
+    {
+        "original": "ultim",
+        "target": "ultim",
+        "canTarget": true
+    },
+    {
+        "original": "un",
+        "target": "un",
+        "canTarget": true
+    },
+    {
+        "original": "unte",
+        "target": "unte",
+        "canTarget": true
+    },
+    {
+        "original": "úzilik",
+        "target": "úzilik",
+        "canTarget": true
+    },
+    {
+        "original": "vedi",
+        "target": "vedi",
+        "canTarget": true
+    },
+    {
+        "original": "véditing",
+        "target": "véditing",
+        "canTarget": true
+    },
+    {
+        "original": "veshang",
+        "target": "veshang",
+        "canTarget": true
+    },
+    {
+        "original": "vídiyo",
+        "target": "vídiyo",
+        "canTarget": true
+    },
+    {
+        "original": "voka",
+        "target": "voka",
+        "canTarget": true
+    },
+    {
+        "original": "volkang",
+        "target": "volkang",
+        "canTarget": true
+    },
+    {
+        "original": "vota",
+        "target": "vota",
+        "canTarget": true
+    },
+    {
+        "original": "voyu",
+        "target": "voyu",
+        "canTarget": true
+    },
+    {
+        "original": "wa",
+        "target": "wa",
+        "canTarget": true
+    },
+    {
+        "original": "wageng",
+        "target": "wageng",
+        "canTarget": true
+    },
+    {
+        "original": "walowda",
+        "target": "walowda",
+        "canTarget": true
+    },
+    {
+        "original": "wamali",
+        "target": "wamali",
+        "canTarget": true
+    },
+    {
+        "original": "wamang",
+        "target": "wamang",
+        "canTarget": true
+    },
+    {
+        "original": "wameku",
+        "target": "wameku",
+        "canTarget": true
+    },
+    {
+        "original": "wámotim",
+        "target": "wámotim",
+        "canTarget": true
+    },
+    {
+        "original": "wang",
+        "target": "wang",
+        "canTarget": true
+    },
+    {
+        "original": "wango",
+        "target": "wango",
+        "canTarget": true
+    },
+    {
+        "original": "wangu",
+        "target": "wangu",
+        "canTarget": true
+    },
+    {
+        "original": "wanya",
+        "target": "wanya",
+        "canTarget": true
+    },
+    {
+        "original": "wash",
+        "target": "wash",
+        "canTarget": true
+    },
+    {
+        "original": "watim",
+        "target": "watim",
+        "canTarget": true
+    },
+    {
+        "original": "we",
+        "target": "we",
+        "canTarget": true
+    },
+    {
+        "original": "wedzha",
+        "target": "wedzha",
+        "canTarget": true
+    },
+    {
+        "original": "wel",
+        "target": "wel",
+        "canTarget": true
+    },
+    {
+        "original": "welte",
+        "target": "welte",
+        "canTarget": true
+    },
+    {
+        "original": "weltewala",
+        "target": "weltewala",
+        "canTarget": true
+    },
+    {
+        "original": "welwala",
+        "target": "welwala",
+        "canTarget": true
+    },
+    {
+        "original": "wépera",
+        "target": "wépera",
+        "canTarget": true
+    },
+    {
+        "original": "weting",
+        "target": "weting",
+        "canTarget": true
+    },
+    {
+        "original": "weyu",
+        "target": "weyu",
+        "canTarget": true
+    },
+    {
+        "original": "wíseki",
+        "target": "wíseki",
+        "canTarget": true
+    },
+    {
+        "original": "wit",
+        "target": "wit",
+        "canTarget": true
+    },
+    {
+        "original": "wok",
+        "target": "wok",
+        "canTarget": true
+    },
+    {
+        "original": "wow",
+        "target": "wow",
+        "canTarget": true
+    },
+    {
+        "original": "wowk",
+        "target": "wowk",
+        "canTarget": true
+    },
+    {
+        "original": "wowl",
+        "target": "wowl",
+        "canTarget": true
+    },
+    {
+        "original": "wowm",
+        "target": "wowm",
+        "canTarget": true
+    },
+    {
+        "original": "wowmow",
+        "target": "wowmow",
+        "canTarget": true
+    },
+    {
+        "original": "wowo",
+        "target": "wowo",
+        "canTarget": true
+    },
+    {
+        "original": "wowt",
+        "target": "wowt",
+        "canTarget": true
+    },
+    {
+        "original": "wupo",
+        "target": "wupo",
+        "canTarget": true
+    },
+    {
+        "original": "xalte",
+        "target": "xalte",
+        "canTarget": true
+    },
+    {
+        "original": "xáltewe",
+        "target": "xáltewe",
+        "canTarget": true
+    },
+    {
+        "original": "xante",
+        "target": "xante",
+        "canTarget": true
+    },
+    {
+        "original": "xantedura",
+        "target": "xantedura",
+        "canTarget": true
+    },
+    {
+        "original": "xanya",
+        "target": "xanya",
+        "canTarget": true
+    },
+    {
+        "original": "xanyanyiye",
+        "target": "xanyanyiye",
+        "canTarget": true
+    },
+    {
+        "original": "xash",
+        "target": "xash",
+        "canTarget": true
+    },
+    {
+        "original": "xash",
+        "target": "xash",
+        "canTarget": true
+    },
+    {
+        "original": "xáshimang",
+        "target": "xáshimang",
+        "canTarget": true
+    },
+    {
+        "original": "xashish",
+        "target": "xashish",
+        "canTarget": true
+    },
+    {
+        "original": "xashiting",
+        "target": "xashiting",
+        "canTarget": true
+    },
+    {
+        "original": "xashiwala",
+        "target": "xashiwala",
+        "canTarget": true
+    },
+    {
+        "original": "xelep",
+        "target": "xelep",
+        "canTarget": true
+    },
+    {
+        "original": "xelep",
+        "target": "xelep",
+        "canTarget": true
+    },
+    {
+        "original": "xélixup",
+        "target": "xélixup",
+        "canTarget": true
+    },
+    {
+        "original": "xep",
+        "target": "xep",
+        "canTarget": true
+    },
+    {
+        "original": "xeta",
+        "target": "xeta",
+        "canTarget": true
+    },
+    {
+        "original": "xétamang",
+        "target": "xétamang",
+        "canTarget": true
+    },
+    {
+        "original": "xi",
+        "target": "xi",
+        "canTarget": true
+    },
+    {
+        "original": "xídawang",
+        "target": "xídawang",
+        "canTarget": true
+    },
+    {
+        "original": "xilowda",
+        "target": "xilowda",
+        "canTarget": true
+    },
+    {
+        "original": "xite",
+        "target": "xite",
+        "canTarget": true
+    },
+    {
+        "original": "xitim",
+        "target": "xitim",
+        "canTarget": true
+    },
+    {
+        "original": "xiya",
+        "target": "xiya",
+        "canTarget": true
+    },
+    {
+        "original": "xom",
+        "target": "xom",
+        "canTarget": true
+    },
+    {
+        "original": "xop",
+        "target": "xop",
+        "canTarget": true
+    },
+    {
+        "original": "xow",
+        "target": "xow",
+        "canTarget": true
+    },
+    {
+        "original": "xowmonyiye",
+        "target": "xowmonyiye",
+        "canTarget": true
+    },
+    {
+        "original": "xownyat",
+        "target": "xownyat",
+        "canTarget": true
+    },
+    {
+        "original": "xox",
+        "target": "xox",
+        "canTarget": true
+    },
+    {
+        "original": "xunyam",
+        "target": "xunyam",
+        "canTarget": true
+    },
+    {
+        "original": "xúnyampelesh",
+        "target": "xúnyampelesh",
+        "canTarget": true
+    },
+    {
+        "original": "xush",
+        "target": "xush",
+        "canTarget": true
+    },
+    {
+        "original": "ya",
+        "target": "ya",
+        "canTarget": true
+    },
+    {
+        "original": "yáterash",
+        "target": "yáterash",
+        "canTarget": true
+    },
+    {
+        "original": "yawu",
+        "target": "yawu",
+        "canTarget": true
+    },
+    {
+        "original": "ye",
+        "target": "ye",
+        "canTarget": true
+    },
+    {
+        "original": "yitim",
+        "target": "yitim",
+        "canTarget": true
+    },
+    {
+        "original": "zákomang",
+        "target": "zákomang",
+        "canTarget": true
+    },
+    {
+        "original": "zakong",
+        "target": "zakong",
+        "canTarget": true
+    },
+    {
+        "original": "",
+        "target": "",
+        "canTarget": true
+    },
+    {
+        "original": "",
+        "target": "",
+        "canTarget": true
+    },
+    {
+        "original": "ademeshang",
+        "target": "ademeshang",
+        "canTarget": true
+    },
+    {
+        "original": "ankawala",
+        "target": "ankawala",
+        "canTarget": true
+    },
+    {
+        "original": "asente",
+        "target": "asente",
+        "canTarget": true
+    },
+    {
+        "original": "bekang",
+        "target": "bekang",
+        "canTarget": false
+    },
+    {
+        "original": "calibet",
+        "target": "calibet",
+        "canTarget": false
+    },
+    {
+        "original": "chi",
+        "target": "chi",
+        "canTarget": false
+    },
+    {
+        "original": "dago",
+        "target": "dago",
+        "canTarget": false
+    },
+    {
+        "original": "dansa",
+        "target": "dansa",
+        "canTarget": true
+    },
+    {
+        "original": "danyo",
+        "target": "danyo",
+        "canTarget": false
+    },
+    {
+        "original": "defotung",
+        "target": "defotung",
+        "canTarget": false
+    },
+    {
+        "original": "envoya",
+        "target": "envoya",
+        "canTarget": false
+    },
+    {
+        "original": "fátiko",
+        "target": "fátiko",
+        "canTarget": false
+    },
+    {
+        "original": "gach",
+        "target": "gach",
+        "canTarget": false
+    },
+    {
+        "original": "geríng",
+        "target": "geríng",
+        "canTarget": true
+    },
+    {
+        "original": "goda",
+        "target": "goda",
+        "canTarget": true
+    },
+    {
+        "original": "ide",
+        "target": "ide",
+        "canTarget": true
+    },
+    {
+        "original": "impaka",
+        "target": "impaka",
+        "canTarget": false
+    },
+    {
+        "original": "kanta",
+        "target": "kanta",
+        "canTarget": false
+    },
+    {
+        "original": "konto",
+        "target": "konto",
+        "canTarget": false
+    },
+    {
+        "original": "langefa",
+        "target": "langefa",
+        "canTarget": false
+    },
+    {
+        "original": "lap",
+        "target": "lap",
+        "canTarget": false
+    },
+    {
+        "original": "lava",
+        "target": "lava",
+        "canTarget": false
+    },
+    {
+        "original": "lida",
+        "target": "lida",
+        "canTarget": false
+    },
+    {
+        "original": "lokeshang",
+        "target": "lokeshang",
+        "canTarget": false
+    },
+    {
+        "original": "mech",
+        "target": "mech",
+        "canTarget": false
+    },
+    {
+        "original": "nanet",
+        "target": "nanet",
+        "canTarget": false
+    },
+    {
+        "original": "notisamang",
+        "target": "notisamang",
+        "canTarget": true
+    },
+    {
+        "original": "nudi",
+        "target": "nudi",
+        "canTarget": true
+    },
+    {
+        "original": "pansetara",
+        "target": "pansetara",
+        "canTarget": false
+    },
+    {
+        "original": "panya",
+        "target": "panya",
+        "canTarget": false
+    },
+    {
+        "original": "peresha",
+        "target": "peresha",
+        "canTarget": false
+    },
+    {
+        "original": "perive",
+        "target": "perive",
+        "canTarget": false
+    },
+    {
+        "original": "pet",
+        "target": "pet",
+        "canTarget": false
+    },
+    {
+        "original": "rameng",
+        "target": "rameng",
+        "canTarget": false
+    },
+    {
+        "original": "renta",
+        "target": "renta",
+        "canTarget": false
+    },
+    {
+        "original": "sekuri",
+        "target": "sekuri",
+        "canTarget": true
+    },
+    {
+        "original": "selo",
+        "target": "selo",
+        "canTarget": false
+    },
+    {
+        "original": "shenyon",
+        "target": "shenyon",
+        "canTarget": true
+    },
+    {
+        "original": "shípewe",
+        "target": "shípewe",
+        "canTarget": false
+    },
+    {
+        "original": "show",
+        "target": "show",
+        "canTarget": false
+    },
+    {
+        "original": "sika",
+        "target": "sika",
+        "canTarget": false
+    },
+    {
+        "original": "sonya",
+        "target": "sonya",
+        "canTarget": true
+    },
+    {
+        "original": "telekopo",
+        "target": "telekopo",
+        "canTarget": false
+    },
+    {
+        "original": "terpodna",
+        "target": "terpodna",
+        "canTarget": false
+    },
+    {
+        "original": "valit",
+        "target": "valit",
+        "canTarget": true
+    },
+    {
+        "original": "verifikashang",
+        "target": "verifikashang",
+        "canTarget": true
+    },
+    {
+        "original": "wowmang",
+        "target": "wowmang",
+        "canTarget": false
+    },
+    {
+        "original": "xantesiga",
+        "target": "xantesiga",
+        "canTarget": false
+    },
+    {
+        "original": "xase",
+        "target": "xase",
+        "canTarget": false
+    },
+    {
+        "original": "xomexownya",
+        "target": "xomexownya",
+        "canTarget": false
+    },
+    {
+        "original": "xudzha",
+        "target": "xudzha",
+        "canTarget": true
+    }
 ]

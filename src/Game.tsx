@@ -4,9 +4,7 @@ import dictionary from "./dictionary.json";
 import { Clue, clue, describeClue, violation } from "./clue";
 import { computeShareText } from "./share";
 import { Keyboard } from "./Keyboard";
-import targetList from "./targets.json";
-import { dictionarySet, pick, getSeed, urlDate, speak, urlParam, getNewSeed, urlLength } from "./util";
-import { decode } from "./base64";
+import { pick, getSeed, urlDate, speak, getNewSeed, urlLength, DictionaryEntry } from "./util";
 import dayjs from 'dayjs'
 import localizedFormat from 'dayjs/plugin/localizedFormat';
 dayjs.extend(localizedFormat);
@@ -23,14 +21,35 @@ interface GameProps {
   hard: boolean;
 }
 
-const targets = targetList.slice();
+function replaceDiacritics(s: string)
+{
+    var diacritics =[
+        /[\300-\306]/g, /[\340-\346]/g,  // A, a
+        /[\310-\313]/g, /[\350-\353]/g,  // E, e
+        /[\314-\317]/g, /[\354-\357]/g,  // I, i
+        /[\322-\330]/g, /[\362-\370]/g,  // O, o
+        /[\331-\334]/g, /[\371-\374]/g,  // U, u
+        /[\321]/g, /[\361]/g, // N, n
+        /[\307]/g, /[\347]/g, // C, c
+    ];
 
-function randomTarget(wordLength: number, seed: string): string {
-  const eligible = targets.filter((word) => word.length === wordLength);
-  let candidate: string;
-  do {
-    candidate = pick(eligible, seed);
-  } while (/\*/.test(candidate));
+    var chars = ['A','a','E','e','I','i','O','o','U','u','N','n','C','c'];
+
+    for (var i = 0; i < diacritics.length; i++)
+    {
+        s = s.replace(diacritics[i],chars[i]);
+    }
+
+    return s;
+}
+
+const targets = dictionary.filter(entry => entry.canTarget);
+const dictionaryLookup = dictionary.map(entry => replaceDiacritics(entry.target));
+
+function randomTarget(wordLength: number, seed: string): DictionaryEntry {
+  const eligible = targets.filter((word) => word.target.length === wordLength);
+  let candidate: DictionaryEntry;
+  candidate = pick(eligible, seed);
   return candidate;
 }
 
@@ -57,6 +76,7 @@ function Game(props: GameProps) {
   const [target, setTarget] = useState(() => {
     return randomTarget(wordLength, seed || date);
   });
+  const normalizedTarget = replaceDiacritics(target.target);
   const tableRef = useRef<HTMLTableElement>(null);
   const startNextGame = () => {
     const newSeed = getNewSeed();
@@ -91,13 +111,13 @@ function Game(props: GameProps) {
         setHint("Too short");
         return;
       }
-      if (!dictionary.includes(currentGuess)) {
+      if (!dictionaryLookup.includes(currentGuess)) {
         setHint("Not a valid word");
         return;
       }
       if (props.hard) {
         for (const g of guesses) {
-          const feedback = violation(clue(g, target), currentGuess);
+          const feedback = violation(clue(g, target.target), currentGuess);
           if (feedback) {
             setHint(feedback);
             return;
@@ -108,9 +128,9 @@ function Game(props: GameProps) {
       setCurrentGuess((guess) => "");
 
       const gameOver = (verbed: string) =>
-        `You ${verbed}! The answer was ${target.toUpperCase()}. (”Enter” fo wa dzhógem nuva)`;
+        `You ${verbed}! The answer was ${target.original.toUpperCase()}. (”Enter” fo wa dzhógem nuva)`;
 
-      if (currentGuess === target) {
+      if (currentGuess === normalizedTarget) {
         setHint(gameOver("won"));
         setGameState(GameState.Won);
       } else if (guesses.length + 1 === props.maxGuesses) {
@@ -118,7 +138,7 @@ function Game(props: GameProps) {
         setGameState(GameState.Lost);
       } else {
         setHint("");
-        speak(describeClue(clue(currentGuess, target)));
+        speak(describeClue(clue(currentGuess, normalizedTarget)));
       }
     }
   };
@@ -143,7 +163,7 @@ function Game(props: GameProps) {
     .fill(undefined)
     .map((_, i) => {
       const guess = [...guesses, currentGuess][i] ?? "";
-      const cluedLetters = clue(guess, target);
+      const cluedLetters = clue(guess, normalizedTarget);
       const lockedIn = i < guesses.length;
       if (lockedIn) {
         for (const { clue, letter } of cluedLetters) {
@@ -213,7 +233,7 @@ function Game(props: GameProps) {
           disabled={gameState !== GameState.Playing || guesses.length === 0}
           onClick={() => {
             setHint(
-              `The answer was ${target.toUpperCase()}. (Enter to play again)`
+              `The answer was ${target.original.toUpperCase()}. (Enter to play again)`
             );
             setGameState(GameState.Lost);
             (document.activeElement as HTMLElement)?.blur();
@@ -232,7 +252,7 @@ function Game(props: GameProps) {
         <p>
           <button
             onClick={() => {
-              const shareText = computeShareText(guesses, target, date, seed, wordLength);
+              const shareText = computeShareText(guesses, normalizedTarget, date, seed, wordLength);
               if (!navigator.clipboard) {
                 setHint(shareText);
               } else {
