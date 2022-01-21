@@ -590,14 +590,14 @@
     {
         "original": "du-showxa",
         "target": "dushowxa",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(n.)",
         "gloss": "chat(s)"
     },
     {
         "original": "du-showxa",
         "target": "dushowxa",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(vb.)",
         "gloss": "to chat"
     },
@@ -620,7 +620,7 @@
         "target": "dusiwala",
         "canTarget": true,
         "partOfSpeech": "(n.)",
-        "gloss": "sweetheart, sweetie (term of endearment, sometimes used sarcastically)"
+        "gloss": "sweetie"
     },
     {
         "original": "duting",
@@ -1101,14 +1101,14 @@
     {
         "original": "gif-go",
         "target": "gifgo",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(vb.)",
         "gloss": "to transfer"
     },
     {
         "original": "gif-peye",
         "target": "gifpeye",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(vb.)",
         "gloss": "to pay"
     },
@@ -1171,7 +1171,7 @@
     {
         "original": "gova-tet",
         "target": "govatet",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(n.)",
         "gloss": "anger, confusion"
     },
@@ -1472,7 +1472,7 @@
     {
         "original": "kom-go",
         "target": "komgo",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(vb.)",
         "gloss": "to arrive"
     },
@@ -1710,14 +1710,14 @@
     {
         "original": "leta-go",
         "target": "letago",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(vb.)",
         "gloss": "to take (away)"
     },
     {
         "original": "leta-kom",
         "target": "letakom",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(vb.)",
         "gloss": "to bring"
     },
@@ -2529,7 +2529,7 @@
     {
         "original": "pelésh-pelésh",
         "target": "peléshpelésh",
-        "canTarget": true,
+        "canTarget": false,
         "partOfSpeech": "(n.)",
         "gloss": "places (abstract)"
     },
