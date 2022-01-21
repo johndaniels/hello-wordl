@@ -255,7 +255,7 @@ function Game(props: GameProps) {
           Random Game with seed {seed}, length {wordLength}
         </div> : 
         <div className="Game-seed-info">
-          Game for {getDateStringFromUrlParam(date)}, length {wordLength}
+          Game for {getDateStringFromUrlParam(date)}
         </div> 
         }
         

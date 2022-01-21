@@ -27,7 +27,7 @@ export function computeShareText(guesses: string[], target: string, date: string
                 case Clue.Elsewhere:
                     return "🟨";
                 case Clue.Absent:
-                    return "⬜";
+                    return "⬛";
             }
         }).join(""));
     return getPrefix(guesses) + rows.join("\n") + "\n\n#LangBelta\n" + url;
