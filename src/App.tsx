@@ -1,7 +1,7 @@
 import "./App.css";
 import { maxGuesses, getRandomSeed, isToday} from "./util";
 import Game from "./Game";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { About } from "./About";
 
 function useSetting<T>(
@@ -28,18 +28,8 @@ function useSetting<T>(
 
 function App() {
   const [page, setPage] = useState<"game" | "about" | "settings">("game");
-  const prefersDark =
-    window.matchMedia &&
-    window.matchMedia("(prefers-color-scheme: dark)").matches;
-  const [dark, setDark] = useSetting<boolean>("dark", prefersDark);
   const [hard, setHard] = useSetting<boolean>("hard", false);
 
-  useEffect(() => {
-    document.body.className = dark ? "dark" : "";
-    setTimeout(() => {
-      document.body.style.transition = "0.3s background-color ease-out";
-    }, 1);
-  }, [dark]);
 
   return (
     <div className="App-container">
@@ -87,15 +77,6 @@ function App() {
       {page === "about" && <About />}
       {page === "settings" && (
         <div className="Settings">
-          <div className="Settings-setting">
-            <input
-              id="dark-setting"
-              type="checkbox"
-              checked={dark}
-              onChange={() => setDark((x: boolean) => !x)}
-            />
-            <label htmlFor="dark-setting">Dark theme</label>
-          </div>
           <div className="Settings-setting">
             <input
               id="hard-setting"
