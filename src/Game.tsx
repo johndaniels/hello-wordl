@@ -64,6 +64,13 @@ function randomTarget(wordLength: number, seed: string): DictionaryEntry {
   return candidate;
 }
 
+function targetForDate(date: string): DictionaryEntry {
+  const eligible = targets.filter((word) => 4 <= word.target.length && word.target.length <= 9);
+  let candidate: DictionaryEntry;
+  candidate = pick(eligible, date);
+  return candidate;
+}
+
 function getDateStringFromUrlParam(dateParam:string) {
   return dayjs(dateParam, "YYYYMMDD").format("LL");
 }
@@ -82,12 +89,17 @@ function Game(props: GameProps) {
   const [seed, setSeed] = useState<string | null>(getSeed())
   const [currentGuess, setCurrentGuess] = useState<string>("");
   const [hint, setHint] = useState<string>("");
-  const [wordLength, setWordLength] = useState(
-    urlLength
-  );
   const [target, setTarget] = useState(() => {
-    return randomTarget(wordLength, seed || date);
+    if (seed) {
+      return randomTarget(urlLength, seed);
+    } else {
+      return targetForDate(date);
+    }
   });
+  const [wordLength, setWordLength] = useState(
+    target.target.length
+  );
+  
   const normalizedTarget = replaceDiacritics(target.target);
   const tableRef = useRef<HTMLTableElement>(null);
   const startNextGame = () => {
